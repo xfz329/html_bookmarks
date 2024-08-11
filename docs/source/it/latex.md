@@ -27,6 +27,7 @@
 - [使用biblatex时如何改变指定参考文献的颜色_bibtex怎么标色-CSDN博客](https://blog.csdn.net/xenonhu/article/details/120097980)
 - [Latex - 调整公式大小 - 知乎](https://zhuanlan.zhihu.com/p/598797769)
 - [latex如何取消自动编号_LaTeX入门（5）-CSDN博客](https://blog.csdn.net/weixin_30533933/article/details/112420777)
+- [latex系列--3 字体 颜色 列表 表格 - 知乎](https://zhuanlan.zhihu.com/p/64524179)
 
 ## Bibtex4Word
 - [Bibtex4Word+Latex+JabRef实现Word参考文献插入和排版_brave_stone的博客-CSDN博客_bibtex4word](https://blog.csdn.net/brave_stone/article/details/88215759)

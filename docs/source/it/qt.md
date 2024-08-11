@@ -1,6 +1,7 @@
 # QT
 
 - [5.12.12](https://mirrors.sjtug.sjtu.edu.cn/qt/archive/qt/5.12/5.12.12/)
+- [Index of /official_releases/qt](http://download.qt.io/official_releases/qt/)
 - [Qt 日志输出 QMessageLogger QtMessageHandler qInstallMessageHandler()_Brickie-liu的博客-CSDN博客](https://blog.csdn.net/liuzhuchen/article/details/54800105?locationNum=5&fps=1)
 - [Qt 日志功能（qDebug、qWarnng、qCritical、qFatal）_我不是萧海哇的技术博客_51CTO博客](https://blog.51cto.com/xiaohaiwa/5378481)
 - [Qt 之 解析wav文件的头信息（详细分析、对比不同wav文件的数据）_前行中的小猪的博客-CSDN博客_wav头解析](https://blog.csdn.net/goforwardtostep/article/details/52789253)

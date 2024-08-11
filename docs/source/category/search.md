@@ -8,3 +8,6 @@
 - [萌娘百科 万物皆可萌的百科全书 - zh.moegirl.org.cn](https://zh.moegirl.org.cn/Mainpage)
 - [全历史](https://www.allhistory.com/)
 - [资源帝电子书导航_在这里发现更多好书...](http://shu.ziyuandi.cn/)
+- [中国哲学书电子化计划](https://ctext.org/wiki.pl?if=gb&remap=gb)
+- [Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。](https://zh.z-library.se/?continueFlag=263228ab5eaa97f6d66228e2263f5ed5)
+- [书格](https://www.shuge.org/)

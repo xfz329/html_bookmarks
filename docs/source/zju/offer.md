@@ -20,3 +20,11 @@
 - [校园招聘详情](https://campushr.hikvision.com/JobDetails.html?id=1ef2521c62714c3c85dc7d092447e0b8&type=0&batchId=6ee4c1ec19054816959d30e08cf87c0d)
 - [考试客户端](https://t.weicewang.com/client/start.html?domain=aHR0cHM6Ly90LndlaWNld2FuZy5jb20vZXhhbS8xMjM2MDQ__0X3D__&exam_id=123604)
 - [投递进程_我的校园_智联校园招聘_智联招聘](https://xiaoyuan.zhaopin.com/scrd/delivery/record)
+
+- [全部动态_牛客网](https://www.nowcoder.com/)
+- [Welcome To PKU JudgeOnline](http://poj.org/)
+- [力扣](https://leetcode-cn.com/)
+- [PAT | 计算机程序设计能力考试 | 爱课程 | 新闻资讯](http://www.patest.cn/)
+- [资源下载 | 小浩算法](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?6OLy)
+- [coding-interview-university/README-cn.md at master · jwasham/coding-interview-university · GitHub](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+- [和实验室小伙伴一起整理的互联网面经，分享给大家 - CC98论坛](https://www.cc98.org/topic/5829726/1)

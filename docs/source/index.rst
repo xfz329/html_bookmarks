@@ -12,6 +12,7 @@ Let's surf!
 
    category/index
    it/index
+   software/index
    pc/index
    zju/index
    life/index

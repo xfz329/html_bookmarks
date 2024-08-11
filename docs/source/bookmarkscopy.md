@@ -32,11 +32,9 @@
 - [A+医学百科, 在线医学百科全书](http://www.a-hospital.com/w/%E9%A6%96%E9%A1%B5)
 - [火山写作](https://www.writingo.net/document)
 - [DeepL Write：人工智能驱动的写作助手](https://www.deepl.com/write)
-- [HP2600打印机提示“需要用户干预”解决方法_惠普打印机用户干预怎么解决_RainStoneBJ的博客-CSDN博客](https://blog.csdn.net/wr200909009/article/details/127197353)
-- [Draw all roads in a city at once](https://anvaka.github.io/city-roads/?q=%E9%87%8D%E5%BA%86)
-- [首页 | Read the Docs](https://readthedocs.org/)
 
-- [Welcome — Sphinx documentation](https://www.sphinx-doc.org/en/master/)
+- [Draw all roads in a city at once](https://anvaka.github.io/city-roads/?q=%E9%87%8D%E5%BA%86)
+
 
 - [JavaFX爱好者看过来，这款工具值得拥有_javafx ui库_夜郎king的博客-CSDN博客](https://blog.csdn.net/yelangkingwuzuhu/article/details/128410692)
 - [Java Downloads | Oracle](https://www.oracle.com/java/technologies/downloads/)
@@ -48,31 +46,18 @@
 - [Chat8永久地址 地址发布页](https://x.chat838.com/)
 - [chat8](https://suchat.chatbh.com/#/home)
 - [Z CHAT](https://zchat.tech/)
-- [中国哲学书电子化计划](https://ctext.org/wiki.pl?if=gb&remap=gb)
-- [Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。](https://zh.z-library.se/?continueFlag=263228ab5eaa97f6d66228e2263f5ed5)
-- [文件管理软件Allen Explorer大版本升级，替代“我的电脑” - 知乎](https://zhuanlan.zhihu.com/p/677895266)
-- [latex系列--3 字体 颜色 列表 表格 - 知乎](https://zhuanlan.zhihu.com/p/64524179)
-- [Overview — Sphinx 1.2 documentation](http://www.pythondoc.com/sphinx/index.html)
-- [readthedocs-examples/example-sphinx-basic: A basic Sphinx project for Read the Docs](https://github.com/readthedocs-examples/example-sphinx-basic/?tab=readme-ov-file)
-- [Python的Sphinx学习 - lijiancheng0614](https://lijiancheng0614.github.io/2016/02/16/2016_02_16_Python_Sphinx/#%E6%8F%90%E5%8F%96%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91%E4%BF%A1%E6%81%AF)
-- [【Open-Source】Sphinx+Read the Docs的多语言版本文档实现 - 知乎](https://zhuanlan.zhihu.com/p/427843476)
-- [Showcase | Hugo](https://gohugo.io/showcase/)
-- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
+
+
+
 - [摸鱼4K | 导航](https://moyu.xiyan.life/)
 - [大模型&AIGC - 飞书云文档](https://uaorfnky3oj.feishu.cn/docx/XNIJdNdEqoJHQ1x6umccURy3nTd)
-- [和实验室小伙伴一起整理的互联网面经，分享给大家 - CC98论坛](https://www.cc98.org/topic/5829726/1)
+
 - [荣耀路由2](http://192.168.3.1/html/advance.html#internet)
 - [Introducing ChatGPT](https://openai.com/blog/chatgpt)
 - [主播直播-蜘蛛直播主播直播](https://zzzb239.app/pc/#/anchor/live?houseId=67946715)
-- [书格](https://www.shuge.org/)
-- [读尽天下源码，心中自然无码](https://doocs.github.io/source-code-hunter/#/)
-- [reStructuredText — Sphinx documentation](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html)
-- [2024日常文档 0.0.1 文档](https://rst-docs-2024.readthedocs.io/zh-cn/latest/)
-- [欢迎 — Sphinx documentation](https://www.osgeo.cn/sphinx/index.html)
-- [免费高效的制谱软件_番茄简谱](http://jianpu99.net/)
-- [Typst: Compose papers faster](https://typst.app/)
-- [概述 — Sphinx 1.8.5 文档](https://sphinx-doc.readthedocs.io/zh-cn/master/index.html)
-- [reStructuredText Directives](https://docutils.sourceforge.io/docs/ref/rst/directives.html#top)
+
+
+
 - [](http://weibo.com/u/1343642930/home?topnav=1&wvr=6)
 - [xfz329 - 博客园](http://www.cnblogs.com/xfz329/)
 - [](http://www.zhihu.com/)
@@ -86,22 +71,6 @@
 - [Overview (Java SE 19 & JDK 19)](https://docs.oracle.com/en/java/javase/19/docs/api/index.html)
 - [GenericServlet (Java(TM) EE 7 Specification APIs)](https://docs.oracle.com/javaee/7/api/toc.htm)
 - [QCustomPlot 2.1.0 Documentation](https://www.qcustomplot.com/documentation/index.html)
-- [全部动态_牛客网](https://www.nowcoder.com/)
-- [Welcome To PKU JudgeOnline](http://poj.org/)
-- [力扣](https://leetcode-cn.com/)
-- [PAT | 计算机程序设计能力考试 | 爱课程 | 新闻资讯](http://www.patest.cn/)
-- [资源下载 | 小浩算法](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?6OLy)
-- [MATLAB Documentation - MathWorks 中国](https://ww2.mathworks.cn/help/index.html)
-- [基于Matlab中FDATool工具箱的滤波器设计及相关文件的生成 - sunev - 博客园](http://www.cnblogs.com/sunev/archive/2011/11/22/2258426.html)
-- [基于Matlab的一阶RC滤波器仿真 - 晨曦朝霞 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhangchen9091/article/details/40628115)
-- [MATLAB信号分析中对频率谱、相位谱、功率谱及相关性的处理 – MATLAB中文论坛](http://www.ilovematlab.cn/thread-270745-1-1.html)
-- [Frequency response of digital filter - MATLAB freqz](http://www.mathworks.com/help/signal/ref/freqz.html)
-- [简易教程 · 小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
-- [微信公众平台](https://mp.weixin.qq.com/wxopen/devprofile?action=get_profile&token=451031223&lang=zh_CN)
-- [API · 小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/api/)
-- [微信小程序开发-个人总结 - 微信小程序开发总结 - SegmentFault 思否](https://segmentfault.com/a/1190000007836408)
-- [如何入门微信小程序开发，有哪些学习资料？ - 知乎](https://www.zhihu.com/question/50907897)
-- [千锋微信小程序开发视频教程_腾讯课堂](https://ke.qq.com/course/161484)
 
 
 - [Zeruns's Blog](https://blog.zeruns.tech/)
@@ -110,7 +79,7 @@
 
 - [酷壳 – CoolShell.cn](http://coolshell.cn/)
 - [1+1=10 - CSDN博客](http://blog.csdn.net/dbzhang800)
-- [coding-interview-university/README-cn.md at master · jwasham/coding-interview-university · GitHub](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+
 
 - [c++ cubic spline interpolation library](http://kluge.in-chemnitz.de/opensource/spline/)
 - [三次样条插值(Cubic Spline Interpolation)及代码实现(C语言) - CSDN博客](http://blog.csdn.net/flyingleo1981/article/details/53008931)
@@ -119,36 +88,6 @@
 - [Modern Compiler Implementation in C](http://www.cs.princeton.edu/~appel/modern/c/)
 
 - [医疗互助保障项目&疾病训练指北](https://spkz.notion.site/090552c425e14d60a1f13a3c04345ee5?v=41969826493e41a9afe1e4f11ba30c77#73c84a50cf0a4e90addbba57a2c228dd)
-
-
-- [日常生活小技巧 -- vim 中 ctags 的安装和使用_不积跬步，无以至千里-CSDN博客](https://blog.csdn.net/qq_29350001/article/details/77162347)
-- [【vim】极简完美配置b-vim（一）安装教程及目录说明 - 简书](https://www.jianshu.com/p/ebf1cfaeaddc)
-- [超级强大的vim配置(vimplus)--续集 - chxuan - 博客园](https://www.cnblogs.com/highway-9/p/5984285.html)
-- [我的最后一款笔记应用-Notion - 知乎](https://zhuanlan.zhihu.com/p/49263306)
-- [Seafile - 自己动手搭建类似 Dropbox 的个人/团队/公司专属私有文件同步服务 (云存储网盘)下载 | 异次元软件](http://www.iplaysoft.com/seafile.html)
-- [PDF Shaper 汉化绿色版多功能PDF工具集合 (格式转换Word/导出图片/加密解密)下载 | 异次元软件](http://www.iplaysoft.com/pdf-shaper.html)
-- [NirSoft - freeware utilities: password recovery, system utilities, desktop utilities](http://www.nirsoft.net/)
-- [Folder Marker Free Download](http://www.softpedia.com/get/System/OS-Enhancements/Folder-Marker.shtml)
-- [Anaconda | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
-- [Index of /official_releases/qt](http://download.qt.io/official_releases/qt/)
-- [Firefox Monitor：扫描结果](https://monitor.firefox.com/scan)
-- [xDroid | 北京麟卓信息科技有限公司](https://www.linzhuotech.com/index.php/home/index/xdroid.html)
-- [［Android Studio 权威教程］断点调试和高级调试 - Android移动开发技术文章_手机开发 - 红黑联盟](http://www.2cto.com/kf/201506/408358.html)
-- [高通处理器规格表](http://www.mydrivers.com/zhuanti/tianti/01/index_gaotong.html)
-- [QQ同步助手 - 腾讯手机软件中心](https://ic.qq.com/pim/contact.jsp)
-- [小楼RAR工具(rar密码破解)下载-小楼RAR工具绿色下载[密码破解工具]-天极下载](https://mydown.yesky.com/pcsoft/107253333.html)
-- [再也不用为中文输入法而烦恼了 - 四叶草](https://www.fkxxyz.com/d/cloverpinyin/#%E5%AE%89%E8%A3%85four_leaf_clover%E5%9B%9B%E5%8F%B6%E8%8D%89%E8%BE%93%E5%85%A5%E6%96%B9%E6%A1%88)
-- [Packages Search - pkgs.org](https://pkgs.org/)
-- [极简插件_Chrome扩展插件商店_优质crx应用](https://chrome.zzzmh.cn/index#index)
-- [油小猴](https://www.baiduyun.wiki/)
-- [mojave 未能与恢复服务器,Clover引导安装黑苹果卡各种问题的解决方法(内容较多)..._weixin_39640573的博客-CSDN博客](https://blog.csdn.net/weixin_39640573/article/details/119632096?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1.no_search_link&spm=1001.2101.3001.4242)
-- [doanhxd/Dell-Vostro-3568-Hackintosh: Dell Vostro 3568 - OpenCore Hackintosh](https://github.com/doanhxd/Dell-Vostro-3568-Hackintosh)
-- [Obsidian](https://obsidian.md/)
-- [Obsidian是什么以及它能用来做什么 - 少数派](https://sspai.com/post/67399)
-- [小狼毫输入法常用设置 - roseforyou - 博客园](https://www.cnblogs.com/zlog/p/5389834.html)
-- [CustomizationGuide · rime/home Wiki](https://github.com/rime/home/wiki/CustomizationGuide#%E4%BD%BF%E7%94%A8-control-%E9%8D%B5%E5%88%87%E6%8F%9B%E4%B8%AD%E8%A5%BF%E6%96%87)
-- [Rime_collections/Rime_description.md at master · LEOYoon-Tsaw/Rime_collections](https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md)
-- [也致第一次安装Rime的你_山茶树和葡萄树-CSDN博客](https://blog.csdn.net/xianghongai/article/details/79540525)
 
 - [](https://chat.openai.com/)
 - [【信号与系统】复习总结笔记 - nevel - 博客园](https://www.cnblogs.com/nevel/p/6194511.html)

@@ -6,12 +6,17 @@
     :caption: 目录:
 
     git
+    nb
     latex
     qt
     java
     python
     ML
     r
+    matlab
+    wx
     pack
     db
+    rst
+    site
 
