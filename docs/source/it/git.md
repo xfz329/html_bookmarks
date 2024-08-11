@@ -1,0 +1,15 @@
+# 从Git开始！
+
+- [GitHub](https://github.com/)
+- [Gitee](https://gitee.com/)
+- [207 GitLab](http://192.168.4.26:30000/users/sign_in)
+- [xfz329 · GitLab](http://192.168.4.26:30000/xfz329)
+- [BME207_NAS文件存储](http://192.168.4.26:5000/)
+- [Overview — Bitbucket](https://bitbucket.org/dashboard/overview)
+- [Git的各种工作流_Peace-CSDN博客](https://blog.csdn.net/qq_35865125/article/details/80049655)
+- [一个小时学会Git - 张果 - 博客园](https://www.cnblogs.com/best/p/7474442.html)
+- [Git - Book](https://git-scm.com/book/zh/v2)
+- [Git 团队协作中常用术语 WIP PTAL CC LGTM 等解释_kunyus的博客-CSDN博客](https://blog.csdn.net/kunyus/article/details/93472646)
+- [使用 SSH 连接到 GitHub - GitHub Docs](https://docs.github.com/cn/authentication/connecting-to-github-with-ssh)
+- [Tutorial · git-lfs/git-lfs Wiki](https://github.com/git-lfs/git-lfs/wiki/Tutorial)
+- [Git LFS 入门指南 - 技术翻译 - OSCHINA 社区](https://www.oschina.net/translate/getting-started-with-git-lfs-tutorial?print)

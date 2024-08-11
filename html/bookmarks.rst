@@ -1,0 +1,583 @@
+未分组
+---
+- `History <chrome-extension://fbmkfdfomhhlonpbnpiibloacemdhjjm/history.html>`_
+- ` <http://192.168.31.1/cgi-bin/luci/web>`_
+- `数据库导航 - 浙江大学图书馆 <http://210.32.137.90/s/lib/libtb/>`_
+- `Home - 求是学术搜索 <http://zju.summon.serialssolutions.com/#!/>`_
+- `Sci-Hub: removing barriers in the way of science <https://www.sci-hub.ren/>`_
+- `灰机wiki <https://www.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5>`_
+- `萌娘百科 万物皆可萌的百科全书 - zh.moegirl.org.cn <https://zh.moegirl.org.cn/Mainpage>`_
+- `全历史 <https://www.allhistory.com/>`_
+- `资源帝电子书导航_在这里发现更多好书... <http://shu.ziyuandi.cn/>`_
+- `微云 <http://www.weiyun.com/disk/index.html>`_
+- `百度 <http://pan.baidu.com/disk/home>`_
+- `iCloud <https://www.icloud.com/>`_
+- `我的小米云服务 <https://i.mi.com/>`_
+- `iCloud <https://www.icloud.com.cn/>`_
+- `百度云搜索_网盘搜索_百度云资源-热盘搜 <http://www.repanso.com/>`_
+- `夸克网盘 <https://pan.quark.cn/list#/list/all>`_
+- `memos <http://47.101.206.210:5230/>`_
+- `GitBook <http://localhost:4000/>`_
+- `全服第一大佬_林宇江芸_小说全服第一大佬在线阅读 - 三千小说网 <https://www.3000xs.com/153_153517/#circle=off>`_
+- `京东网上商城-综合网购首选（JD.COM）-正品低价、品质保障、货到付款、配送及时、放心服务、轻松购物！ <http://www.jd.com/>`_
+- `淘宝 <http://www.taobao.com/>`_
+- `小米商城 - 小米MIX 3、小米8、红米6 Pro、小米电视官方网站 <https://www.mi.com/>`_
+- `普罗旺斯手工拼装别墅_可可礼物网 <http://www.cocodiy.com/item/1927>`_
+- `爱回收官网 | 手机回收｜二手手机回收｜笔记本回收｜专业二手数码回收平台 <http://www.aihuishou.com/>`_
+- `21Cake蛋糕官网_24小时蛋糕网上订购_5小时新鲜送达！ <https://www.21cake.com/>`_
+- `论坛 - 六维空间 - 教育科研网分享测试平台 <http://bt.neu6.edu.cn/forum.php>`_
+- `NexusHD :: 首页 - Powered by NexusPHP <http://www.nexushd.org/index.php>`_
+- `BYRBT :: 首页 - Powered by NexusPHP <https://byr.pt/index.php>`_
+- `[计算机经典图书合集1][PDF][2000-2016] - 电子书籍 - 六维空间 - 教育科研网分享测试平台 <http://bt.neu6.edu.cn/thread-1577016-1-1.html>`_
+- `YouTube <https://youtube.com/>`_
+- `NexusHD :: 首页 - Powered by NexusPHP <http://www.nexushd.org/>`_
+- `陪你练琴 吉他基本功练习100天 <https://mp.weixin.qq.com/s?__biz=MzAxODIwNjQ4MQ==&mid=2650651131&idx=1&sn=9fc340fe82f791a4ba433988e93c7e76&chksm=83d0c385b4a74a93d770356ac234993f20c5ef6f469043d98321ffa94d9f8a2deaef050c20ec&mpshare=1&scene=1&srcid=1223ezUJdaKUNpYdBfXSXIiH&sharer_sharetime=1577111414140&sharer_shareid=2021fa49f86d6267f8e8a15b9e01a83b&key=e3ddc965270db25901191c40ee41c10a26c496fc4999ba558a4a24add1f539971773b9e70a9d284b95657475350e7e9c3e1ee395efb82fa5c9f6ad4a5f7ba255a9a9aee6aa1bcdb2b196569c22016bbd&ascene=1&uin=MjI2MzQ3MTU1&devicetype=Windows+7&version=62070158&lang=zh_CN&exportkey=ASihuzlX5a77vphp9J6MkRU%3D&pass_ticket=kuDYBh4JQzvycbGqVIWAd5VLIE%2BnAVE0IaqOntphesk%3D>`_
+- `17吉他网_吉他弹唱交流,吉他入门学习,吉他谱下载,吉他教学视频 <https://www.17jita.com/>`_
+- `吉他社 - 吉他爱好者社区,提供吉他谱下载吉他教学视频吉他入门 <https://www.jitashe.org/>`_
+- `Steven Law – The Guitarist | The Stuff of Legends <https://stevenlawguitar.com/>`_
+- `Detective Conan 名偵探柯南 Fingerstyle (Guitar Tutorial + Tab) - YouTube <https://www.youtube.com/watch?v=4naZ7fQrIUc&t=14s>`_
+- `Case Closed / Detective Conan Theme (Guitar) [Notation + TAB] - YouTube <https://www.youtube.com/watch?v=b92o84NceGg>`_
+- `okgg.top <https://okgg.top/>`_
+- `飞讯加速 <https://meikimi.github.io/>`_
+- `腾讯云 <https://console.cloud.tencent.com/developer>`_
+- `阿里云 <https://account.aliyun.com/login/login.htm?oauth_callback=https%3A%2F%2Fecs.console.aliyun.com%2F%3Fspm%3D5176.authc-home.recommend.decs.d16b4babbcY6Q8#/home>`_
+- `菜鸟工具 - 不止于工具 <https://c.runoob.com/>`_
+- `RGB转16进制工具 | 菜鸟工具 <https://c.runoob.com/front-end/55/>`_
+- `w3school 在线教程 <http://www.w3school.com.cn/>`_
+- `中国大学MOOC(慕课)_国家精品课程在线学习平台 <https://www.icourse163.org/>`_
+- `菜鸟教程 - 学的不仅是技术，更是梦想！ <https://www.runoob.com/>`_
+- `笨鸟教程 <http://www.javatiku.cn/>`_
+- `首页 - 廖雪峰的官方网站 <https://www.liaoxuefeng.com/>`_
+- `CJavaPy_www.cjavapy.com <https://www.cjavapy.com/>`_
+- `PyPI · The Python Package Index <https://pypi.org/>`_
+- `JSON在线视图查看器(Online JSON Viewer) <https://www.bejson.com/jsonviewernew/>`_
+- `regex101: build, test, and debug regex <https://regex101.com/>`_
+- `乱码恢复 <http://www.mytju.com/classcode/tools/messycoderecover.asp>`_
+- `天赋好书（cnToFu.com）-- 分享开源电子书 <https://www.cntofu.com/>`_
+- `爪哇堂 – 荣辱不惊闲看庭前花开花谢，去留无意漫随天外云卷云舒。——马寅初 <https://www.javatang.com/>`_
+- `易百教程™ - 专注于IT教程和实例 <https://www.yiibai.com/>`_
+- `Regex Learn - 逐步从零基础到高阶。 <https://regexlearn.com/zh-cn>`_
+- `WantWords 反向词典 <https://wantwords.net/>`_
+- `不愧是微软出品的工具，逆天！ <https://mp.weixin.qq.com/s?__biz=MzU0OTkwNTM2Mw==&mid=2247628610&idx=2&sn=b512c95ca6f98bd7ecd3e4c62dd91490&chksm=fba401feccd388e84d9d29c5b63ca9218c81cde6b9c8b8189f57c0de4aeccdc5618f355fd6e4&scene=132#wechat_redirect>`_
+- `朱鸾AI助手 <http://wenzhang.zhuluan.com/zh-cn/>`_
+- `在线JSON校验格式化工具（Be JSON） <https://www.bejson.com/>`_
+- `今日诗词 - 一言API - 诗词实时智能推荐 - 今日诗词开放接口 - 今日诗词 API - 个人文章分享 <https://www.jinrishici.com/>`_
+- `金锋关晓柔大康王朝小说免费阅读,第760章 要当爸爸了？作者寒门枭士-33小说网 <https://m.x33xs.com/33xs/407/407421/11273692.html#circle=on>`_
+- `CPU比较/处理器比较 <https://www.cpu-panda.com/zh-cn/>`_
+- `PassMark Software - CPU Benchmark Charts <https://www.cpubenchmark.net/>`_
+- `Office Tool Plus 官方网站 - 一键部署 Office <https://otp.landian.vip/zh-cn/>`_
+- `A+医学百科, 在线医学百科全书 <http://www.a-hospital.com/w/%E9%A6%96%E9%A1%B5>`_
+- `火山写作 <https://www.writingo.net/document>`_
+- `DeepL Write：人工智能驱动的写作助手 <https://www.deepl.com/write>`_
+- `HP2600打印机提示“需要用户干预”解决方法_惠普打印机用户干预怎么解决_RainStoneBJ的博客-CSDN博客 <https://blog.csdn.net/wr200909009/article/details/127197353>`_
+- `Draw all roads in a city at once <https://anvaka.github.io/city-roads/?q=%E9%87%8D%E5%BA%86>`_
+- `首页 | Read the Docs <https://readthedocs.org/>`_
+- `R 语言教程 | 菜鸟教程 <https://www.runoob.com/r/r-tutorial.html>`_
+- `R · R 包开发 | 保姆级教程_r包开发_一只小蛮要的博客-CSDN博客 <https://blog.csdn.net/weixin_43843918/article/details/129395318>`_
+- `在VScode设置R语言 - 灰信网（软件开发博客聚合） <https://www.freesion.com/article/1168866809/>`_
+- `R语言教程 <https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html>`_
+- `R语言 用data.table进行数据操作|极客教程 <https://geek-docs.com/r-language/r-tutorials/t_data-manipulation-in-r-with-data-table.html>`_
+- `The Comprehensive R Archive Network <https://cran.r-project.org/submit.html>`_
+- `Welcome — Sphinx documentation <https://www.sphinx-doc.org/en/master/>`_
+- `R语言程序包开发 - 简书 <https://www.jianshu.com/p/8e0db63fcbff>`_
+- `R Packages (2e) <https://r-pkgs.org/>`_
+- `JavaFX爱好者看过来，这款工具值得拥有_javafx ui库_夜郎king的博客-CSDN博客 <https://blog.csdn.net/yelangkingwuzuhu/article/details/128410692>`_
+- `Java Downloads | Oracle <https://www.oracle.com/java/technologies/downloads/>`_
+- `The R Graph Gallery – Help and inspiration for R charts <https://r-graph-gallery.com/>`_
+- `Health icons <https://healthicons.org/>`_
+- `Utility of the Photoplethysmogram in Circulatory Monitoring | Anesthesiology | American Society of Anesthesiologists <https://pubs.asahq.org/anesthesiology/article/108/5/950/8368/Utility-of-the-Photoplethysmogram-in-Circulatory>`_
+- `Microsoft Word - Kezerashvili-MS - CCR-8-14.pdf <chrome-extension://oikmahiipjniocckomdccmplodldodja/pdf-viewer/web/viewer.html?file=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3394104%2Fpdf%2FCCR-8-14.pdf>`_
+- `大写在线转换小写 <https://jf.homefont.cn/daxiao.html>`_
+- `Chat8永久地址 地址发布页 <https://x.chat838.com/>`_
+- `chat8 <https://suchat.chatbh.com/#/home>`_
+- `Z CHAT <https://zchat.tech/>`_
+- `中国哲学书电子化计划 <https://ctext.org/wiki.pl?if=gb&remap=gb>`_
+- `Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。 <https://zh.z-library.se/?continueFlag=263228ab5eaa97f6d66228e2263f5ed5>`_
+- `文件管理软件Allen Explorer大版本升级，替代“我的电脑” - 知乎 <https://zhuanlan.zhihu.com/p/677895266>`_
+- `latex系列--3 字体 颜色 列表 表格 - 知乎 <https://zhuanlan.zhihu.com/p/64524179>`_
+- `Overview — Sphinx 1.2 documentation <http://www.pythondoc.com/sphinx/index.html>`_
+- `readthedocs-examples/example-sphinx-basic: A basic Sphinx project for Read the Docs <https://github.com/readthedocs-examples/example-sphinx-basic/?tab=readme-ov-file>`_
+- `Python的Sphinx学习 - lijiancheng0614 <https://lijiancheng0614.github.io/2016/02/16/2016_02_16_Python_Sphinx/#%E6%8F%90%E5%8F%96%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91%E4%BF%A1%E6%81%AF>`_
+- `【Open-Source】Sphinx+Read the Docs的多语言版本文档实现 - 知乎 <https://zhuanlan.zhihu.com/p/427843476>`_
+- `Showcase | Hugo <https://gohugo.io/showcase/>`_
+- `The world’s fastest framework for building websites | Hugo <https://gohugo.io/>`_
+- `摸鱼4K | 导航 <https://moyu.xiyan.life/>`_
+- `大模型&AIGC - 飞书云文档 <https://uaorfnky3oj.feishu.cn/docx/XNIJdNdEqoJHQ1x6umccURy3nTd>`_
+- `和实验室小伙伴一起整理的互联网面经，分享给大家 - CC98论坛 <https://www.cc98.org/topic/5829726/1>`_
+- `荣耀路由2 <http://192.168.3.1/html/advance.html#internet>`_
+- `Introducing ChatGPT <https://openai.com/blog/chatgpt>`_
+- `主播直播-蜘蛛直播主播直播 <https://zzzb239.app/pc/#/anchor/live?houseId=67946715>`_
+- `书格 <https://www.shuge.org/>`_
+- `读尽天下源码，心中自然无码 <https://doocs.github.io/source-code-hunter/#/>`_
+- `reStructuredText — Sphinx documentation <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+- `2024日常文档 0.0.1 文档 <https://rst-docs-2024.readthedocs.io/zh-cn/latest/>`_
+- `欢迎 — Sphinx documentation <https://www.osgeo.cn/sphinx/index.html>`_
+- `免费高效的制谱软件_番茄简谱 <http://jianpu99.net/>`_
+- `Typst: Compose papers faster <https://typst.app/>`_
+- `概述 — Sphinx 1.8.5 文档 <https://sphinx-doc.readthedocs.io/zh-cn/master/index.html>`_
+- `reStructuredText Directives <https://docutils.sourceforge.io/docs/ref/rst/directives.html#top>`_
+- ` <http://weibo.com/u/1343642930/home?topnav=1&wvr=6>`_
+- `xfz329 - 博客园 <http://www.cnblogs.com/xfz329/>`_
+- ` <http://www.zhihu.com/>`_
+- `Facebook <https://www.facebook.com/>`_
+- `Twitter <https://twitter.com/>`_
+- `Home - Quora <https://www.quora.com/>`_
+- `党委研究生工作部 <http://ygb.zju.edu.cn/redir.php?catalog_id=140080>`_
+- `求是青年网—共青团浙江大学委员会 <http://www.youth.zju.edu.cn/redir.php?catalog_id=597>`_
+- `重要通知 <http://dwzzb.zju.edu.cn/_s65/zytz/list.psp>`_
+- `浙江大学-首页 <http://www.zju.edu.cn/>`_
+- `浙江大学电子邮件系统 <http://mail.zju.edu.cn/>`_
+- `浙江大学研究生院 <http://grs.zju.edu.cn/>`_
+- `浙江大学研究生院招生网 <http://grs.zju.edu.cn/redir.php?catalog_id=17212>`_
+- `浙江大学网络运行系统——用户自助中心 <http://myvpn.zju.edu.cn/login.action>`_
+- `用户中心选课 <http://grs.zju.edu.cn/allogene/page/home.htm;jsessionid=1D98BCD1267C470BB9908630E9AD4E37>`_
+- `CC98论坛 <http://www.cc98.org/>`_
+- `浙江大学RVPN服务系统 <https://edurvpn.zju.edu.cn/por/service.csp?showsvc=1&autoOpen=1&rnd=opmcadoblpp>`_
+- `浙江大学教务处考试中心 <http://kszx.zju.edu.cn/>`_
+- `博士报名登录 <https://grs.zju.edu.cn/bssso/login?service=http%3A%2F%2Fgrs.zju.edu.cn%2Fbsbm%2F>`_
+- `/ 的索引 <ftp://software.cc98.org/>`_
+- `联系信息审核情况查询 <http://zuds.zju.edu.cn/zfsjzx/rygl/rygl!rfxxwhqkindex>`_
+- `首页 <http://10.12.42.7/synw/>`_
+- `统一身份认证平台 <https://zjuam.zju.edu.cn/cas/login>`_
+- `浙江大学图书馆 <http://libweb.zju.edu.cn/libweb/>`_
+- `浙江大学图书馆查新系统 <http://cx.zju.edu.cn/choose_cxbg.php>`_
+- `睡眠记录 <https://modao.cc/app/96q978UYcTdG7FdJ4wQcZZVyKKrCCIO#screen=sBFD53718CF1514362156480>`_
+- `浙江大学生物医学工程与仪器科学学院 <http://www.cbeis.zju.edu.cn/main.htm>`_
+- `关于2022年冬季（第四季）研究生学位申请的通知 <http://www.cbeis.zju.edu.cn/2022/0908/c63837a2614468/page.psp>`_
+- `Adobe 软件平台 <https://software.zju.edu.cn/index.html>`_
+- `正版软件管理与服务平台(浙江大学) <http://ms.zju.edu.cn/>`_
+- `浙江大学生物医学工程与仪器科学学院会议室预约系统 <http://10.12.42.7/synw/OA/yuyue/>`_
+- `浙江大学校务服务网 <http://xwfw.zju.edu.cn/>`_
+- `关于2024年春季（第一季）研究生学位申请的通知 <http://www.cbeis.zju.edu.cn/2023/1120/c63837a2828618/page.htm>`_
+- `zju mirror <http://mirrors.zju.edu.cn/>`_
+- `阿里巴巴开源镜像站 <https://opsx.alibaba.com/mirror>`_
+- `Index of /Linux.old/ <http://oldlinux.org/Linux.old/>`_
+- `Unix <https://minnie.tuhs.org/cgi-bin/utree.pl>`_
+- `LFS Project Homepage <https://www.linuxfromscratch.org/lfs/>`_
+- `The NetBSD Project <http://www.netbsd.org/>`_
+- `JSLinux <https://bellard.org/jslinux/>`_
+- ` <http://forum.ubuntu.org.cn/index.php>`_
+- `Unix技术网 = 全球最大的Linux/Unix应用与开发者社区 = IT人的网上家园 <http://www.chinaunix.net/>`_
+- `Linux网站导航,Linux网址大全,Linux排名,Linux屏幕抓图 <https://linux.ubuntu.org.cn/>`_
+- `正点原子 <http://www.openedv.com/forum.php>`_
+- `6.S081 / Fall 2020 <https://pdos.csail.mit.edu/6.828/2020/index.html>`_
+- `https://ipads.se.sjtu.edu.cn/mospi/ <https://ipads.se.sjtu.edu.cn/mospi/>`_
+- `正点原子【第一期】手把手教你学Linux之Ubuntu入门篇_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili <https://www.bilibili.com/video/BV1vE411h7Fi?p=2>`_
+- `正点原子【第二期】手把手教你学Linux之ARM（MX6U）裸机篇_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili <https://www.bilibili.com/video/BV1yE411h7uQ?p=5>`_
+- `GitHub <https://github.com/>`_
+- `Gitee <https://gitee.com/>`_
+- `Reference - C++ Reference <http://www.cplusplus.com/reference/>`_
+- `Python 标准库 — Python 3.11.2 文档 <https://docs.python.org/zh-cn/3/library/index.html>`_
+- `Qt Reference Pages | Qt 5.15 <https://doc.qt.io/qt-5/reference-overview.html>`_
+- `Overview (Java SE 11 & JDK 11 ) <https://www.runoob.com/manual/jdk11api/index.html>`_
+- `Overview (Java SE 19 & JDK 19) <https://docs.oracle.com/en/java/javase/19/docs/api/index.html>`_
+- `GenericServlet (Java(TM) EE 7 Specification APIs) <https://docs.oracle.com/javaee/7/api/toc.htm>`_
+- `QCustomPlot 2.1.0 Documentation <https://www.qcustomplot.com/documentation/index.html>`_
+- `全部动态_牛客网 <https://www.nowcoder.com/>`_
+- `Welcome To PKU JudgeOnline <http://poj.org/>`_
+- `力扣 <https://leetcode-cn.com/>`_
+- `PAT | 计算机程序设计能力考试 | 爱课程 | 新闻资讯 <http://www.patest.cn/>`_
+- `资源下载 | 小浩算法 <https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?6OLy>`_
+- `MATLAB Documentation - MathWorks 中国 <https://ww2.mathworks.cn/help/index.html>`_
+- `基于Matlab中FDATool工具箱的滤波器设计及相关文件的生成 - sunev - 博客园 <http://www.cnblogs.com/sunev/archive/2011/11/22/2258426.html>`_
+- `基于Matlab的一阶RC滤波器仿真 - 晨曦朝霞 - 博客频道 - CSDN.NET <http://blog.csdn.net/zhangchen9091/article/details/40628115>`_
+- `MATLAB信号分析中对频率谱、相位谱、功率谱及相关性的处理 – MATLAB中文论坛 <http://www.ilovematlab.cn/thread-270745-1-1.html>`_
+- `Frequency response of digital filter - MATLAB freqz <http://www.mathworks.com/help/signal/ref/freqz.html>`_
+- `简易教程 · 小程序 <https://mp.weixin.qq.com/debug/wxadoc/dev/index.html>`_
+- `微信公众平台 <https://mp.weixin.qq.com/wxopen/devprofile?action=get_profile&token=451031223&lang=zh_CN>`_
+- `API · 小程序 <https://mp.weixin.qq.com/debug/wxadoc/dev/api/>`_
+- `微信小程序开发-个人总结 - 微信小程序开发总结 - SegmentFault 思否 <https://segmentfault.com/a/1190000007836408>`_
+- `如何入门微信小程序开发，有哪些学习资料？ - 知乎 <https://www.zhihu.com/question/50907897>`_
+- `千锋微信小程序开发视频教程_腾讯课堂 <https://ke.qq.com/course/161484>`_
+- `207 GitLab <http://192.168.4.26:30000/users/sign_in>`_
+- `xfz329 · GitLab <http://192.168.4.26:30000/xfz329>`_
+- `BME207_NAS文件存储 <http://192.168.4.26:5000/>`_
+- `Overview — Bitbucket <https://bitbucket.org/dashboard/overview>`_
+- `Git的各种工作流_Peace-CSDN博客 <https://blog.csdn.net/qq_35865125/article/details/80049655>`_
+- `一个小时学会Git - 张果 - 博客园 <https://www.cnblogs.com/best/p/7474442.html>`_
+- `Git - Book <https://git-scm.com/book/zh/v2>`_
+- `Git 团队协作中常用术语 WIP PTAL CC LGTM 等解释_kunyus的博客-CSDN博客 <https://blog.csdn.net/kunyus/article/details/93472646>`_
+- `使用 SSH 连接到 GitHub - GitHub Docs <https://docs.github.com/cn/authentication/connecting-to-github-with-ssh>`_
+- `Hackintosh黑苹果长期维护机型整理清单 | 黑果小兵的部落阁 <https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html>`_
+- `Zeruns's Blog <https://blog.zeruns.tech/>`_
+- `DOS编程技术 - whowin - 网易博客 <http://hengch.blog.163.com/>`_
+- `elephant <http://elephantliu.blog.51cto.com/>`_
+- `黑果小兵的部落阁 <https://blog.daliansky.net/>`_
+- `酷壳 – CoolShell.cn <http://coolshell.cn/>`_
+- `1+1=10 - CSDN博客 <http://blog.csdn.net/dbzhang800>`_
+- `coding-interview-university/README-cn.md at master · jwasham/coding-interview-university · GitHub <https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md>`_
+- `Mcuzone下载站 首页 <http://www.mcuzone.com/down/Index.asp>`_
+- `首页-广州立功科技股份有限公司 <https://www.zlgmcu.com/>`_
+- `贸泽电子 - 电子元器件分销商 <http://www.mouser.cn/>`_
+- `e络盟 | 电子元器件分销商 | Premier Farnell 集团在中国的子公司 | 前身派睿电子 <http://cn.element14.com/?CMP=KNC-BAI-GEN-PFB&mckv=1yv5TL28N|pcrid|6045932560&baidu%20-%20mckv=1yv5TL28N|pcrid|6045932560>`_
+- `恩智浦半导体 | 汽车电子, 安全互联, 物联网 <https://www.nxp.com.cn/>`_
+- `C8051F 51单片机 选型列表 <https://www.waveshare.net/Left_Column/C8051F_51_Device.htm>`_
+- `ADS1298 数据表, 产品信息与支持 | TI.com.cn <https://www.ti.com.cn/product/cn/ADS1298>`_
+- `意法半导体STM32/STM8技术社区 - 提供最新的ST资讯和技术交流 <https://www.stmcu.org.cn/>`_
+- `ALLDATASHEET.COM - Datasheet search site for Electronic Components and Semiconductors and other semiconductors. <https://www.alldatasheet.com/>`_
+- `模拟 | 嵌入式处理 | 半导体公司 | 德州仪器 TI.com.cn <https://www.ti.com.cn/>`_
+- `ON Semiconductor <https://www.onsemi.cn/>`_
+- `OpenEdv-开源电子网-正点原子论坛 <http://openedv.com/forum.php>`_
+- `c++ cubic spline interpolation library <http://kluge.in-chemnitz.de/opensource/spline/>`_
+- `三次样条插值(Cubic Spline Interpolation)及代码实现(C语言) - CSDN博客 <http://blog.csdn.net/flyingleo1981/article/details/53008931>`_
+- `三对角矩阵(Tridiagonal Matrices)的求法：Thomas Algorithm(TDMA) - 马语者 - 博客园 <http://www.cnblogs.com/xpvincent/archive/2013/01/25/2877411.html>`_
+- `Open Source ECG Analysis Software <http://www.eplimited.com/confirmation.htm>`_
+- `Modern Compiler Implementation in C <http://www.cs.princeton.edu/~appel/modern/c/>`_
+- `华为招聘 <http://career.huawei.com/reccampportal/campus4_index.html#campus4/content.html>`_
+- `我的应聘|阿里巴巴校园招聘 <https://campus.alibaba.com/myJobApply.htm?spm=a1z3e1.11770841.0.0.69237405WZmPG0>`_
+- `浙江大学就业服务平台 <http://www.career.zju.edu.cn/jyxt/jyweb/webIndex.zf>`_
+- `华为还愿 +【面经】操作系统面试题小结_资源分享_牛客网 <https://www.nowcoder.com/discuss/325668?type=2>`_
+- `CyC2018的个人主页_牛客网 <https://www.nowcoder.com/profile/124213/myDiscussPost>`_
+- `超级全面的技术面试学习资料_笔经面经_牛客网 <https://www.nowcoder.com/discuss/66985?source_id=profile_create&channel=0>`_
+- `彻底吃透前中后序递归法（递归三部曲）和迭代法（不统一写法与统一写法） - 二叉树的前序遍历 - 力扣（LeetCode） <https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/dai-ma-sui-xiang-lu-chi-tou-qian-zhong-hou-xu-de-d/>`_
+- `阿里云操作系统-云原生底层系统团队春招&暑期实习 - CC98论坛 <https://www.cc98.org/topic/5030114/1>`_
+- `校园招聘详情 <https://campushr.hikvision.com/JobDetails.html?id=b2cf5408b31843e1bcf53ed0d90fb1ef&type=0>`_
+- `华为招聘_牛客网 <https://www.nowcoder.com/company/home/code/239?codeType=1>`_
+- `华为机试题库_在线编程+题解_牛客题霸_牛客网 <https://www.nowcoder.com/ta/huawei>`_
+- `leetcode-master/动态规划理论基础.md at master · youngyangyang04/leetcode-master <https://github.com/youngyangyang04/leetcode-master/pulls>`_
+- `阿里云操作系统团队春招实习，让我们一起做大龙蜥社区（ https://openanolis.cn/?lang=zh ） - CC98论坛 <https://www.cc98.org/topic/5527302/1>`_
+- `博士后----中国科学院杭州医学研究所 <https://him.cas.cn/zsjy/dsdw/bsh/>`_
+- `简历录入 <https://xyz.51job.com/External/MyResume/FillInResume.aspx?CtmID=e844fc92-0787-4043-b38e-e43cca0f3f60&ResumeID=19070055-ff7d-4ca8-9132-8c6a1f83bca5&SeqID=0&prd=campus.51job.com&prp=&cd=xyz.51job.com&cp=&ruid=&backurl=&auid=&uuid=&partner=>`_
+- `career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=4875&dataSource=1&jobType=0 <https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=4875&dataSource=1&jobType=0>`_
+- `校园招聘详情 <https://campushr.hikvision.com/JobDetails.html?id=d734a3c33253423b8ff68d297ebad773&type=2&batchId=6ee4c1ec19054816959d30e08cf87c0d>`_
+- `校园招聘详情 <https://campushr.hikvision.com/JobDetails.html?id=1ef2521c62714c3c85dc7d092447e0b8&type=0&batchId=6ee4c1ec19054816959d30e08cf87c0d>`_
+- `考试客户端 <https://t.weicewang.com/client/start.html?domain=aHR0cHM6Ly90LndlaWNld2FuZy5jb20vZXhhbS8xMjM2MDQ__0X3D__&exam_id=123604>`_
+- `投递进程_我的校园_智联校园招聘_智联招聘 <https://xiaoyuan.zhaopin.com/scrd/delivery/record>`_
+- `医疗互助保障项目&疾病训练指北 <https://spkz.notion.site/090552c425e14d60a1f13a3c04345ee5?v=41969826493e41a9afe1e4f11ba30c77#73c84a50cf0a4e90addbba57a2c228dd>`_
+- `FastJson序列化时过滤字段(属性)的方法总结 - PC君 - 博客园 <https://www.cnblogs.com/pcheng/p/11507901.html>`_
+- `JSON最佳实践 | kimmking's blog <http://kimmking.github.io/2017/06/06/json-best-practice/>`_
+- `fastjson之@JSONField注解的几个的使用详细示范_请叫我大师兄-CSDN博客_jsonfield注解 <https://lixuekai.blog.csdn.net/article/details/83381091?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control>`_
+- `Fastjson使用JSONFeild快速格式化小数点后几位_lobinsonCJX的博客-CSDN博客_jsonformat格式化小数 <https://blog.csdn.net/qq_21915727/article/details/109248545>`_
+- `FastJson的介绍与使用（一）_JL-CSDN博客_fastjson是什么 <https://blog.csdn.net/JLoveforever/article/details/79885485?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base>`_
+- `java中文件复制的4种方式 - 壹佰 - 博客园 <https://www.cnblogs.com/xxjcai/p/11581987.html>`_
+- `使用 ListResourceBundle | JAVA8 官网笔记教程 <https://zq99299.github.io/java-tutorial/i18n/resbundle/list.html#%E5%88%9B%E5%BB%BA-listresourcebundle>`_
+- `Java Forums at the Big Moose Saloon <https://www.coderanch.com/forums>`_
+- `eclipse自动生成getter,setter方法全选快捷键_已解决_博问_博客园 <https://q.cnblogs.com/q/62701/>`_
+- `eclipse将项目打包成jar运行_静雄桑的博客-CSDN博客_eclipse打包成jar <https://blog.csdn.net/qq_36173194/article/details/82842531>`_
+- `List集合排序 sort方法 - 阿亮在努力 - 博客园 <https://www.cnblogs.com/liqiliang1437/p/13071993.html>`_
+- `JFreeChart <https://www.jfree.org/jfreechart/index.html>`_
+- `JFreeChart - Quick Guide - Tutorialspoint <https://www.tutorialspoint.com/jfreechart/jfreechart_quick_guide.htm>`_
+- `JFreeChart参考API - JFreeChart在线教程 <http://gitbook.net/jfreechart/jfreechart_referenced_apis.html>`_
+- `org.jfree.chart.entity (JFreeChart 1.5.0 API) <https://www.jfree.org/jfreechart/api/javadoc/index.html>`_
+- `Java JFreeChart|极客教程 <https://geek-docs.com/java/java-tutorial/jfreechart.html>`_
+- `ECharts 教程 | 菜鸟教程 <https://www.runoob.com/echarts/echarts-tutorial.html>`_
+- `java-使用鼠标平移图表-Jfreechart <https://www.icode9.com/content-1-503065.html>`_
+- `Pan chart using mouse - Jfreechart | 易学教程 <https://www.e-learn.cn/topic/1027403>`_
+- `jfreechart图表的数据刷新_xiaozhendong123的博客-CSDN博客 <https://blog.csdn.net/xiaozhendong123/article/details/50113051>`_
+- `JFreeChart| 图表高级自定义-图表条目标签(CategoryItemLabelGenerator)_YvesHe的专栏-CSDN博客 <https://blog.csdn.net/u011479200/article/details/81515620>`_
+- `Overview (JFreeChart 1.5.3 API) <https://www.jfree.org/jfreechart/javadoc/index.html>`_
+- `数据库设计的基本步骤_bieleyang的博客-CSDN博客 <https://blog.csdn.net/bieleyang/article/details/77149954>`_
+- `Navicat 连接MySQL 8.0.11 出现2059错误 - 李帆1998 - 博客园 <https://www.cnblogs.com/lifan1998/p/9177731.html>`_
+- `关于Windows安装解压版MySQL出现服务正在启动-服务无法启动的问题_工控世界-CSDN博客_mysql 服务无法启动。 <https://blog.csdn.net/u013901768/article/details/80707307?utm_term=mysql%E6%9C%8D%E5%8A%A1%E6%AD%A3%E5%9C%A8%E5%90%AF%E5%8A%A8%E6%9C%8D%E5%8A%A1%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-0-80707307&spm=3001.4430>`_
+- `阿里云（windows）服务器上安装mysql步骤及碰到的问题_她说-的博客-CSDN博客 <https://blog.csdn.net/weixin_42409107/article/details/100022599>`_
+- `windows10上安装mysql（详细步骤）_周周周的博客-CSDN博客_mysql安装 <https://blog.csdn.net/zhouzezhou/article/details/52446608>`_
+- `MySQL DELETE：删除数据 <http://c.biancheng.net/view/2580.html>`_
+- `MySQL 删除数据库 | 菜鸟教程 <https://www.runoob.com/mysql/mysql-drop-database.html>`_
+- `com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed J_zhuhai__yizhi的专栏-CSDN博客 <https://blog.csdn.net/zhuhai__yizhi/article/details/51672390>`_
+- `java.lang.IllegalArgumentException: Unexpected char 0x5a46 at 35 in Content-Disposition value: f_马彦虎的博客-CSDN博客 <https://blog.csdn.net/weixin_37639900/article/details/104009283>`_
+- `Retrofit2 详解和使用（一）_慢跑的乌龟-CSDN博客_retrofit2 <https://blog.csdn.net/m0_37796683/article/details/90702095>`_
+- `Retrofit2 使用@Multipart上传文件_唐诺-CSDN博客_retrofit上传文件 <https://blog.csdn.net/zhijiandedaima/article/details/84587291>`_
+- `这是一份很详细的 Retrofit 2.0 使用教程（含实例讲解）_专注分享 Android开发 干货-CSDN博客_retrofit <https://blog.csdn.net/carson_ho/article/details/73732076>`_
+- `Android okHttp网络请求之文件上传下载 - 总李写代码 - 博客园 <https://www.cnblogs.com/whoislcj/p/5529827.html>`_
+- `More than one file was found with OS independent path 'META-INF/DEPENDENCIES'_shenggaofei的博客-CSDN博客 <https://blog.csdn.net/shenggaofei/article/details/82998420>`_
+- `在Servlet3.0中使用request.getParts()获取上传文件_u012334071的专栏-CSDN博客_request.getpart <https://blog.csdn.net/u012334071/article/details/50261063>`_
+- `servlet3.0 getPart()与getParts()获取上传文件 - new_chaos的个人空间 - OSCHINA - 中文开源技术交流社区 <https://my.oschina.net/newchaos/blog/1619284>`_
+- `JAVA发送http get/post请求，调用http接口、方法_java漫步天下的专栏-CSDN博客 <https://blog.csdn.net/java173842219/article/details/54020168?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242>`_
+- `java通过HttpServletRequest获取post请求中的body内容的方法_java_脚本之家 <https://www.jb51.net/article/134970.htm>`_
+- `Android网络编程之使用HttpClient批量上传文件（一）_fengyuzhengfan的专栏-CSDN博客_android httpclient上传文件 <https://blog.csdn.net/fengyuzhengfan/article/details/39941851>`_
+- `轻松把玩HttpClient_崔成龙 . 勇往直前-CSDN博客 <https://blog.csdn.net/xiaoxian8023/category_9264781.html>`_
+- `四种常见的 POST 提交数据方式 | JerryQu 的小站 <https://imququ.com/post/four-ways-to-post-data-in-http.html>`_
+- `Loadrunner进行post请求，body为文件内容时如何处理 - 测试界的一只小虫 - 51Testing软件测试网 51Testing软件测试网-软件测试人的精神家园 <http://www.51testing.com/html/24/397424-908984.html>`_
+- `org.apache.http.entity.mime (Apache HttpClient Mime 4.5.13 API) <http://hc.apache.org/httpcomponents-client-4.5.x/current/httpmime/apidocs/index.html>`_
+- `JAVA POST 上传文件 - SegmentFault 思否 <https://segmentfault.com/q/1010000000180787>`_
+- `Apache HttpComponents – HttpClient Overview <http://hc.apache.org/httpcomponents-client-4.5.x/index.html>`_
+- `Java中doGet, doPost方法和文件上传_张鹿鹿的专栏-CSDN博客 <https://blog.csdn.net/u013144863/article/details/52224744>`_
+- `post请求设置body为file_鱼香土豆丝-CSDN博客 <https://blog.csdn.net/he_min/article/details/81501603>`_
+- `HttpClient详细使用示例_JustryDeng-CSDN博客_httpclient <https://blog.csdn.net/justry_deng/article/details/81042379>`_
+- `HttpClient - HttpClient Home <http://hc.apache.org/httpclient-legacy/index.html>`_
+- `JAVA发送HTTP请求方式总结_灵药的博客-CSDN博客_java发送http请求 <https://blog.csdn.net/longshehe9319/article/details/80509829>`_
+- `Java Web(一) Servlet详解！！ - 有梦想的老王 - 博客园 <https://www.cnblogs.com/whgk/p/6399262.html>`_
+- `用Eclipse开发配置Servlet_Hey_0912的博客-CSDN博客 <https://blog.csdn.net/weixin_45315166/article/details/103087561?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.withoutpai&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.withoutpai>`_
+- `Eclipse上Maven环境配置使用 (全) - 唐胜伟 - 博客园 <https://www.cnblogs.com/tangshengwei/p/6341462.html>`_
+- `在eclipse里搜索maven项目需要的dependency_御前四品铲屎官的博客-CSDN博客 <https://blog.csdn.net/zhuiyucanxin/article/details/80512129>`_
+- `仓库服务 <https://maven.aliyun.com/mvn/guide>`_
+- `在eclipse里搜索maven项目需要的dependency - 清晨的第一抹阳光 - 博客园 <https://www.cnblogs.com/116970u/p/10932205.html>`_
+- `Eclipse整合Maven以及中央仓库配置为阿里云 - 程序员大本营 <https://www.pianshen.com/article/5343287833/>`_
+- `Maven Repository: Search/Browse/Explore <https://mvnrepository.com/>`_
+- `MPAndroidChart Documentation - Weeklycoding <https://weeklycoding.com/mpandroidchart-documentation/>`_
+- `NavigationView实现侧滑效果 - JavaShuo <http://www.javashuo.com/article/p-brzqlyfx-he.html>`_
+- `Android 侧滑菜单的实现（NavigationView） - JavaShuo <http://www.javashuo.com/article/p-nkuurvtf-nt.html>`_
+- `Android：设计模式-策略模式-关于Logger日志工具的使用_哑巴湖小水怪的博客-CSDN博客 <https://blog.csdn.net/changhuzichangchang/article/details/93167637>`_
+- `orhanobut/logger: ✔️ Simple, pretty and powerful logger for android <https://github.com/orhanobut/logger>`_
+- `MPAndroidChart_折线图的那些事 - 云+社区 - 腾讯云 <https://cloud.tencent.com/developer/article/1941074>`_
+- `LineDataSet (MPChartLib v3.1.0 API) <https://javadoc.jitpack.io/com/github/PhilJay/MPAndroidChart/v3.1.0/javadoc/>`_
+- `android日志框架Logger的使用_码农搬砖哥的博客-CSDN博客_android logger <https://blog.csdn.net/qq_36512159/article/details/118425034>`_
+- `How to Make Dialogs (The Java™ Tutorials > Creating a GUI With JFC/Swing > Using Swing Components) <https://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html>`_
+- `scikit-learn (sklearn) 官方文档中文版简介 <https://www.cntofu.com/book/170/readme.html>`_
+- `开发工具 | 你真的会用jupyter吗？ - 知乎 <https://zhuanlan.zhihu.com/p/83252017>`_
+- `安装Jupyter NbExtensions Configurator插件_sun___shy的博客-CSDN博客 <https://blog.csdn.net/sun___shy/article/details/105977423>`_
+- `Pandas 中 SettingwithCopyWarning 的原理和解决方案 - 简书 <https://www.jianshu.com/p/72274ccb647a>`_
+- `Python pandas库中的isnull()详解_python_脚本之家 <https://www.jb51.net/article/177313.htm>`_
+- `sklearn.neighbors.NearestNeighbors — scikit-learn 0.24.2 documentation <https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html>`_
+- `超参数选择：网格搜索GridSearchCV - 灰信网（软件开发博客聚合） <https://www.freesion.com/article/94331155892/>`_
+- `3.2. Tuning the hyper-parameters of an estimator — scikit-learn 0.24.2 documentation <https://scikit-learn.org/stable/modules/grid_search.html#grid-search>`_
+- `Correlation analysis in Python <https://www.reneshbedre.com/blog/correlation-analysis.html>`_
+- `bioinfokit documentation - Renesh Bedre <https://reneshbedre.github.io/blog/howtoinstall.html#correlation-matrix-plot>`_
+- `17 Statistical Hypothesis Tests in Python (Cheat Sheet) <https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/>`_
+- `STATEXT - Statistics Study <https://www.statext.com/download.php>`_
+- `(21 封私信 / 80 条消息) heatmap - 搜索结果 - 知乎 <https://www.zhihu.com/search?type=content&q=heatmap>`_
+- `相关系数矩阵与热力图heatmap - 简书 <https://www.jianshu.com/p/871ee6cbcb22>`_
+- `sklearn.manifold.MDS-scikit-learn中文社区 <https://scikit-learn.org.cn/view/459.html>`_
+- `tensorflow给图片打标签_交通标识分类TensorFlow实现_weixin_39883260的博客-CSDN博客 <https://blog.csdn.net/weixin_39883260/article/details/111167366>`_
+- `https://sklearn.apachecn.org <https://sklearn.apachecn.org/#/>`_
+- `AdaBoost 算法的解释 | Python 与机器学习 <https://mlblog.carefree0910.me/posts/707464b/>`_
+- `贝叶斯优化BayesianOptimization_MusicDancing的博客-CSDN博客_贝叶斯优化 <https://blog.csdn.net/MusicDancing/article/details/117018398>`_
+- `贝叶斯优化(Bayesian Optimization)只需要看这一篇就够了,算法到python实现 - 知乎 <https://zhuanlan.zhihu.com/p/131216861?utm_source=qq>`_
+- `This TensorFlow binary is optimized with oneAPI Deep Neural Network Library.._CV小的博客-CSDN博客 <https://blog.csdn.net/weixin_43217958/article/details/113785750>`_
+- `The Sequential model  |  TensorFlow Core <https://www.tensorflow.org/guide/keras/sequential_model?hl=zh-cn>`_
+- `六、降维：使用 PCA 压缩数据集 <http://fe4ml.apachecn.org/#/docs/6.%E9%99%8D%E7%BB%B4%EF%BC%9A%E7%94%A8_PCA_%E5%8E%8B%E7%BC%A9%E6%95%B0%E6%8D%AE%E9%9B%86>`_
+- `十八、Keras <https://dsai-notes.apachecn.org/#/18>`_
+- `随机森林原理 - 知乎 <https://zhuanlan.zhihu.com/p/54286825>`_
+- `磐创AI：智能客服，聊天机器人，TensorFlow，PyTorch，Keras，深度学习，机器学习，自然语言处理，计算机视觉。 <https://panchuang.net/>`_
+- `TensorFlow教程：TensorFlow快速入门教程（非常详细） <http://c.biancheng.net/tensorflow/>`_
+- `循环神经网络系列RNN、LSTM及变种 | 码农家园 <https://www.codenong.com/cs106898515/>`_
+- `CNN 和RNN 中input 长度不一致问题 <http://www.wjhsh.net/baiting-p-8148656.html>`_
+- `API Reference — deslib 0.4.dev documentation <https://deslib.readthedocs.io/en/latest/api.html>`_
+- `Welcome to DESlib documentation! — deslib 0.4.dev documentation <https://deslib.readthedocs.io/en/latest/index.html>`_
+- `CNN学习笔记——CNN是怎么做到图像识别的？_知了爱啃代码的博客-CSDN博客_cnn图片识别 <https://blog.csdn.net/rongsenmeng2835/article/details/106755082/>`_
+- `聚类模型评价（python） - 知乎 <https://zhuanlan.zhihu.com/p/78920991>`_
+- `聚类性能评估-轮廓系数 - 知乎 <https://zhuanlan.zhihu.com/p/108163834>`_
+- `聚类算法评估指标 – 标点符 <https://www.biaodianfu.com/cluster-score.html#%E8%BD%AE%E5%BB%93%E7%B3%BB%E6%95%B0_Silhouette_Coefficient>`_
+- `聚类的评测方法 - 知乎 <https://zhuanlan.zhihu.com/p/436376880>`_
+- `如何评价聚类结果的好坏？ - 知乎 <https://www.zhihu.com/question/19635522>`_
+- `科研常用显著性分析方法汇总及选择（T检验，Mann-Whitney U test检验，方差分析等） - 知乎 <https://zhuanlan.zhihu.com/p/140909755>`_
+- `(7 封私信 / 2 条消息) Spearman相关系数 - 搜索结果 - 知乎 <https://www.zhihu.com/search?type=content&q=Spearman%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0>`_
+- `Decision Tree Algorithm, Explained - KDnuggets <https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html>`_
+- `Stacking Ensemble Machine Learning With Python <https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python/>`_
+- `机器学习：集成学习_GeniusAng的博客-CSDN博客_集成学习 <https://blog.csdn.net/weixin_45707277/article/details/120596614>`_
+- `使用sklearn计算随机森林模型中各特征的重要性_LRJ-jonas的博客-CSDN博客_sklearn随机森林特征重要性计算 <https://blog.csdn.net/m0_55097528/article/details/124678516>`_
+- `数据特征分析：相关性分析（Pandas中的corr方法）_圻子-的博客-CSDN博客_相关性corr <https://blog.csdn.net/weixin_44507435/article/details/105142544>`_
+- `6大最常用的Java机器学习库一览_智者之家-CSDN博客_java 机器学习 <https://blog.csdn.net/chekongfu/article/details/84231789>`_
+- `mloss | All entries <https://mloss.org/software/>`_
+- `Machine Learning Project at the University of Waikato in New Zealand <https://www.cs.waikato.ac.nz/ml/index.html>`_
+- `Java Machine Learning Library (Java-ML) <http://java-ml.sourceforge.net/>`_
+- `Hard voting and Soft Voting - emanlee - 博客园 <https://www.cnblogs.com/emanlee/p/13466950.html>`_
+- `Z-normalization | SAX-VSM <https://jmotif.github.io/sax-vsm_site/morea/algorithm/znorm.html>`_
+- `Overview (weka-stable 3.8.5 API) <https://weka.sourceforge.io/doc.stable-3-8/>`_
+- `开发者搜索-Beta <https://kaifa.baidu.com/>`_
+- `最火的3个Python机器学习库_墨竹-CSDN博客_python 机器学习库 <https://blog.csdn.net/kevinelstri/article/details/61614621>`_
+- `10 minutes to pandas — pandas 1.2.4 documentation <https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html>`_
+- `如何保存sklearn训练好的算法模型 - 知乎 <https://zhuanlan.zhihu.com/p/47213465>`_
+- `sklearn训练模型的保存与加载 - 百家齐鸣 - 博客园 <https://www.cnblogs.com/ceo-python/p/11979978.html>`_
+- `强烈推荐Github上的100个Python项目！ - SegmentFault 思否 <https://segmentfault.com/a/1190000024577427?utm_source=tag-newest>`_
+- `scikit-learn使用joblib.dump()持久化模型过程中的问题详解--python - 程序园 <http://www.voidcn.com/article/p-nctvbcpx-bbz.html>`_
+- `Tensorflow 模型持久化 - JavaShuo <http://www.javashuo.com/article/p-krsyyfnf-mm.html>`_
+- `File:Bland-Alman Plot with CI's on LOA.png - Wikipedia <https://en.wikipedia.org/wiki/File:Bland-Alman_Plot_with_CI%27s_on_LOA.png>`_
+- `Recall（召回率） Precision（准确率） F-Measure E值 sensitivity（灵敏性） specificity（特异性）漏诊率 误诊率 ROC AUC - CSDN博客 <https://blog.csdn.net/abcd1f2/article/details/51887164>`_
+- `精确度，召回率，真阳性，假阳性 - CSDN博客 <https://blog.csdn.net/lydia2012924/article/details/78088336/>`_
+- `绘制ROC曲线、找截断值，教你两种软件操作方法！ <https://zhuanlan.zhihu.com/p/27671234>`_
+- `Hung-yi Lee <http://speech.ee.ntu.edu.tw/~tlkagk/courses.html>`_
+- `GitHub - carefree0910/MachineLearning: Machine learning algorithms implemented by pure numpy <https://github.com/carefree0910/MachineLearning>`_
+- `CS229: Machine Learning <http://cs229.stanford.edu/>`_
+- `CS229: Machine Learning <http://cs229.stanford.edu/syllabus.html>`_
+- `介绍 | TensorFlow 官方文档中文版 <http://www.tensorfly.cn/tfdoc/get_started/introduction.html>`_
+- `MNIST 入门 | TensorFlow 官方文档中文版 <http://www.tensorfly.cn/tfdoc/tutorials/mnist_beginners.html>`_
+- `ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. <https://github.com/ageron/handson-ml>`_
+- `Foundations of Machine Learning <https://bloomberg.github.io/foml/#people>`_
+- `1. Black Box Machine Learning - YouTube <https://www.youtube.com/watch?v=MsD28INtSv8&list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI&index=2&t=0s>`_
+- `Python机器学习--降维 - ranjiewen - 博客园 <https://www.cnblogs.com/ranjiewen/p/7458554.html>`_
+- `SVM技术网站首页 <http://see.xidian.edu.cn/faculty/chzheng/bishe/index.htm>`_
+- `Machine Learning Using Heart Sound Classification Example Video - MATLAB <https://ww2.mathworks.cn/videos/machine-learning-using-heart-sound-classification-example-1515709249154.html>`_
+- `scikit-learn: machine learning in Python — scikit-learn 0.21.3 documentation <https://scikit-learn.org/stable/index.html>`_
+- `Introduction · sklearn 中文文档 <https://sklearn.apachecn.org/>`_
+- `StratifiedKFold 和 KFold 的比较 - 简书 <https://www.jianshu.com/p/c84818b56fa0>`_
+- `sklearn.model_selection.KFold - 每天进步一点点2017 - CSDN博客 <https://blog.csdn.net/kancy110/article/details/74910185>`_
+- `机器学习 —— 基础整理（五）线性回归；二项Logistic回归；Softmax回归及其梯度推导；广义线性模型 - Determined22 - 博客园 <https://www.cnblogs.com/Determined22/p/6362951.html>`_
+- `What is Machine Learning? Machine Learning Courses – deeplearning.ai <https://www.deeplearning.ai/>`_
+- `数据挖掘之一——M5P树状回归演算法 - 宽客在线 <https://www.quantinfo.com/Article/View/272.html>`_
+- `硬投票和软投票 <http://www.360doc.com/content/20/0707/15/52334415_922789688.shtml>`_
+- `International Journal of Gynecology & Obstetrics Journal Metrics <https://obgyn.onlinelibrary.wiley.com/page/journal/18793479/journal-metrics>`_
+- `日常生活小技巧 -- vim 中 ctags 的安装和使用_不积跬步，无以至千里-CSDN博客 <https://blog.csdn.net/qq_29350001/article/details/77162347>`_
+- `【vim】极简完美配置b-vim（一）安装教程及目录说明 - 简书 <https://www.jianshu.com/p/ebf1cfaeaddc>`_
+- `超级强大的vim配置(vimplus)--续集 - chxuan - 博客园 <https://www.cnblogs.com/highway-9/p/5984285.html>`_
+- `我的最后一款笔记应用-Notion - 知乎 <https://zhuanlan.zhihu.com/p/49263306>`_
+- `Seafile - 自己动手搭建类似 Dropbox 的个人/团队/公司专属私有文件同步服务 (云存储网盘)下载 | 异次元软件 <http://www.iplaysoft.com/seafile.html>`_
+- `PDF Shaper 汉化绿色版多功能PDF工具集合 (格式转换Word/导出图片/加密解密)下载 | 异次元软件 <http://www.iplaysoft.com/pdf-shaper.html>`_
+- `NirSoft - freeware utilities: password recovery, system utilities, desktop utilities <http://www.nirsoft.net/>`_
+- `Folder Marker Free Download <http://www.softpedia.com/get/System/OS-Enhancements/Folder-Marker.shtml>`_
+- `Anaconda | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror <https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/>`_
+- `Index of /official_releases/qt <http://download.qt.io/official_releases/qt/>`_
+- `Firefox Monitor：扫描结果 <https://monitor.firefox.com/scan>`_
+- `xDroid | 北京麟卓信息科技有限公司 <https://www.linzhuotech.com/index.php/home/index/xdroid.html>`_
+- `［Android Studio 权威教程］断点调试和高级调试 - Android移动开发技术文章_手机开发 - 红黑联盟 <http://www.2cto.com/kf/201506/408358.html>`_
+- `高通处理器规格表 <http://www.mydrivers.com/zhuanti/tianti/01/index_gaotong.html>`_
+- `QQ同步助手 - 腾讯手机软件中心 <https://ic.qq.com/pim/contact.jsp>`_
+- `小楼RAR工具(rar密码破解)下载-小楼RAR工具绿色下载[密码破解工具]-天极下载 <https://mydown.yesky.com/pcsoft/107253333.html>`_
+- `再也不用为中文输入法而烦恼了 - 四叶草 <https://www.fkxxyz.com/d/cloverpinyin/#%E5%AE%89%E8%A3%85four_leaf_clover%E5%9B%9B%E5%8F%B6%E8%8D%89%E8%BE%93%E5%85%A5%E6%96%B9%E6%A1%88>`_
+- `Packages Search - pkgs.org <https://pkgs.org/>`_
+- `极简插件_Chrome扩展插件商店_优质crx应用 <https://chrome.zzzmh.cn/index#index>`_
+- `油小猴 <https://www.baiduyun.wiki/>`_
+- `mojave 未能与恢复服务器,Clover引导安装黑苹果卡各种问题的解决方法(内容较多)..._weixin_39640573的博客-CSDN博客 <https://blog.csdn.net/weixin_39640573/article/details/119632096?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1.no_search_link&spm=1001.2101.3001.4242>`_
+- `doanhxd/Dell-Vostro-3568-Hackintosh: Dell Vostro 3568 - OpenCore Hackintosh <https://github.com/doanhxd/Dell-Vostro-3568-Hackintosh>`_
+- `Obsidian <https://obsidian.md/>`_
+- `Obsidian是什么以及它能用来做什么 - 少数派 <https://sspai.com/post/67399>`_
+- `小狼毫输入法常用设置 - roseforyou - 博客园 <https://www.cnblogs.com/zlog/p/5389834.html>`_
+- `CustomizationGuide · rime/home Wiki <https://github.com/rime/home/wiki/CustomizationGuide#%E4%BD%BF%E7%94%A8-control-%E9%8D%B5%E5%88%87%E6%8F%9B%E4%B8%AD%E8%A5%BF%E6%96%87>`_
+- `Rime_collections/Rime_description.md at master · LEOYoon-Tsaw/Rime_collections <https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md>`_
+- `也致第一次安装Rime的你_山茶树和葡萄树-CSDN博客 <https://blog.csdn.net/xianghongai/article/details/79540525>`_
+- `Tutorial · git-lfs/git-lfs Wiki <https://github.com/git-lfs/git-lfs/wiki/Tutorial>`_
+- `Git LFS 入门指南 - 技术翻译 - OSCHINA 社区 <https://www.oschina.net/translate/getting-started-with-git-lfs-tutorial?print>`_
+- `Bibtex4Word+Latex+JabRef实现Word参考文献插入和排版_brave_stone的博客-CSDN博客_bibtex4word <https://blog.csdn.net/brave_stone/article/details/88215759>`_
+- `利用Bibtex4实现Latex在Word写作时参考文献的插入和排版_知识小屋-CSDN博客 <https://blog.csdn.net/zd0303/article/details/8054684>`_
+- `利用Bibtex4Word实现Word写作时参考文献的插入和排版_zebincai的专栏-CSDN博客_bibtex4word <https://blog.csdn.net/zebincai/article/details/21318087?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0.no_search_link&spm=1001.2101.3001.4242.1&utm_relevant_index=3>`_
+- `How to Use Tables (The Java™ Tutorials > Creating a GUI With Swing > Using Swing Components) <https://docs.oracle.com/javase/tutorial/uiswing/components/table.html>`_
+- `投稿指南 - 《天津大学学报（自然科学与工程技术版）》 <http://journals.tju.edu.cn/zrb/Corp/60.aspx>`_
+- `Hypertension in Pregnancy journal metrics <https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=ihip20>`_
+- `ScholarOne Manuscripts <https://mc.manuscriptcentral.com/tbme-embs>`_
+- `投稿指南_生物医学工程学杂志_唯一官网 <http://www.biomedeng.cn/news/swyxgcxzz/tougaozhinan.html>`_
+- `Editorial Manager® <https://www.editorialmanager.com/preghy/default.aspx>`_
+- `稿件信息和稿件版本（稿签） <http://mc.biomedeng.cn/author/#/AuthorScriptInfoVersion?ScriptId=13046&OperationID=11000&OperationRecordID=>`_
+- `Displays - Journal - Elsevier <https://www.journals.elsevier.com/displays>`_
+- `Author Dashboard <https://rp.tandfonline.com/dashboard/>`_
+- `Pregnancy Hypertension - ScienceDirect.com <https://www.sciencedirect.com/science/journal/22107789/>`_
+- `SCI论文润色、修改、翻译服务公司-英文论文修改公司-美国LetPub编辑 <http://www.letpub.com.cn/>`_
+- `Journal of the American Society of Hypertension 影响因子2.615，期刊投稿经验分享，Journal of the American Society of Hypertension主页，推荐审稿人、编辑，审稿周期/时间，Journal of the American Society of Hypertension impact  <https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=5259>`_
+- `International Journal of Gynecology & Obstetrics - Wiley Online Library <https://obgyn.onlinelibrary.wiley.com/journal/18793479>`_
+- `Select article type : BMC Pregnancy and Childbirth <https://submission.springernature.com/new-submission/12884/3?_gl=1*1lauqmg*_ga*MTA0NzEyODAxOC4xNjgwNzU4MjQ2*_ga_PJCTJWPV25*MTY4MjM5MDY1Mi41LjEuMTY4MjM5MDc0Ny4wLjAuMA..>`_
+- `Journal of Clinical Monitoring and Computing | Home <https://www.springer.com/journal/10877>`_
+- `ICIMH 2022 | Intelligent Medicine and Health 第四届智能医学与健康国际会议-厦门大学 <http://icimh.com/index.html>`_
+- `Healthcare | An Open Access Journal from MDPI <https://www.mdpi.com/journal/healthcare>`_
+- `Journal of Cardiovascular Development and Disease | An Open Access Journal from MDPI <https://www.mdpi.com/journal/jcdd>`_
+- `Biomedical Signal Processing and Control | Journal | ScienceDirect.com by Elsevier <https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control>`_
+- `Biomedical Signal Processing and Control - Journal - Elsevier <https://www.journals.elsevier.com/biomedical-signal-processing-and-control>`_
+- `Journal of Pregnancy Latest Journal Impact IF 2021-2022 | Trend, Prediction, Ranking, Key Factor Analysis <https://academic-accelerator.com/Impact-of-Journal/Journal-of-Pregnancy>`_
+- `ICICSP 2022丨Shenzhen(中国 深圳) <http://www.icsp.org/news.html>`_
+- `CompAuto 2022 :: Home <http://www.icca.net/>`_
+- `BMC Pregnancy and Childbirth | Home page <https://bmcpregnancychildbirth.biomedcentral.com/>`_
+- `The Journal of Maternal-Fetal & Neonatal Medicine | Taylor & Francis Online <https://www.tandfonline.com/journals/ijmf20>`_
+- `Full article: Distinguishing preeclampsia using the falling scaled slope (FSS) --- a novel photoplethysmographic morphological parameter <https://www.tandfonline.com/doi/full/10.1080/10641955.2023.2225617>`_
+- `Volume 139 Issue 6 | Anesthesiology | American Society of Anesthesiologists <https://pubs.asahq.org/anesthesiology/issue>`_
+- `5.12.12 <https://mirrors.sjtug.sjtu.edu.cn/qt/archive/qt/5.12/5.12.12/>`_
+- `Qt 日志输出 QMessageLogger QtMessageHandler qInstallMessageHandler()_Brickie-liu的博客-CSDN博客 <https://blog.csdn.net/liuzhuchen/article/details/54800105?locationNum=5&fps=1>`_
+- `Qt 日志功能（qDebug、qWarnng、qCritical、qFatal）_我不是萧海哇的技术博客_51CTO博客 <https://blog.51cto.com/xiaohaiwa/5378481>`_
+- `Qt 之 解析wav文件的头信息（详细分析、对比不同wav文件的数据）_前行中的小猪的博客-CSDN博客_wav头解析 <https://blog.csdn.net/goforwardtostep/article/details/52789253>`_
+- `Qt 之 WAV文件解析_前行中的小猪的博客-CSDN博客 <https://blog.csdn.net/goforwardtostep/article/details/52776240>`_
+- `Qt 日志系统_会头痛的可达鸭的博客-CSDN博客_qt日志系统 <https://blog.csdn.net/qq_15821883/article/details/113254371>`_
+- `QT日志使用_宁静致远2021的博客-CSDN博客_qt 日志 <https://blog.csdn.net/m0_46577050/article/details/123662171>`_
+- `QT显示图片的几种方法_penghejuan2012的博客-CSDN博客_qt显示图片 <https://blog.csdn.net/penghejuan2012/article/details/81190077>`_
+- `QT下实现图片的自适应显示、缩放（以鼠标位置为中心进行缩放）、拖动、以及重置_GreenHandBruce的博客-CSDN博客_qt图片自适应显示 <https://blog.csdn.net/weixin_43935474/article/details/89327314?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-9.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-9.control>`_
+- `QT技巧 - QT中QWidget动态增加控件_itas109的专栏-CSDN博客_qt 添加控件 <https://blog.csdn.net/itas109/article/details/83181951>`_
+- `QT中QWidget动态增加控件_u011555996的博客-CSDN博客 <https://blog.csdn.net/u011555996/article/details/108159925>`_
+- `LaTeX入门学习(5)(表格)_bleedingfight的博客-CSDN博客 <https://blog.csdn.net/bleedingfight/article/details/80169003>`_
+- `Latex表格大小调整常见问题汇总_KFXW的专栏-CSDN博客_latex表格大小 <https://blog.csdn.net/u010158659/article/details/78964030>`_
+- `Latex中的一些表格用法总结（二）——行列式的表格，表格的切分和合并_编程小栈-CSDN博客_multicolumn用法 <https://blog.csdn.net/chichoxian/article/details/52050260>`_
+- `LaTeX 制作（跨页）长表格_the Blog of 等不到天亮丶等时光-CSDN博客_latex跨页表格 <https://blog.csdn.net/weixin_39278265/article/details/100179109>`_
+- `LaTeX使用笔记：长表格longtable（附实例） – Spark & Shine <http://sparkandshine.net/latex-use-notes-longtable-with-examples/#1>`_
+- `Latex中的表格的高级用法，设置表格的线宽，颜色_编程小栈-CSDN博客_latex 表格线宽 <https://blog.csdn.net/chichoxian/article/details/108877760>`_
+- `LaTex 写演示文稿 - Beamer 入门 之 彩色表格_宋荍的LaTeX学习笔记-CSDN博客_latex演示文稿 <https://blog.csdn.net/joefsong/article/details/108032685>`_
+- `Create LaTeX tables online – TablesGenerator.com <https://www.tablesgenerator.com/>`_
+- `CTAN: /tex-archive/support/excel2latex <https://ctan.org/tex-archive/support/excel2latex/>`_
+- `LaTeX 中的浮动体：处理超宽问题 | 始终 <https://liam.page/2017/03/22/floats-in-LaTeX-handle-overfull-floats/>`_
+- `Latex学习笔记（五）——Latex模板学习总结_行歌-CSDN博客 <https://blog.csdn.net/weixin_41695564/article/details/82835405>`_
+- `Latex 算法怎么写？（一）：algorithm, algorithmic算法包到底什么区别？ - 知乎 <https://zhuanlan.zhihu.com/p/145195565?from_voters_page=true>`_
+- `LaTeX listings排版代码与一些代码的格式（持续更新）_good vegetable!-CSDN博客 <https://blog.csdn.net/Aldielshala/article/details/89840206>`_
+- `LaTex伪代码手册 | algorithm2e、 algorithmicx、algorithmic - 知乎 <https://zhuanlan.zhihu.com/p/270994351>`_
+- `latex算法分页问题_yingLGG的博客-CSDN博客 <https://blog.csdn.net/yingLGG/article/details/105674072>`_
+- `LaTeX/Algorithms 伪代码 - xhSong's Blog - 像诗一样代码，像云一样生活 <http://hustsxh.is-programmer.com/posts/38801.html>`_
+- `LaTeX：listings最好看代码块设置 - 简书 <https://www.jianshu.com/p/db92fa4487f9>`_
+- `LaTeX listings 宏包使用说明（一） - 知乎 <https://zhuanlan.zhihu.com/p/261667944>`_
+- `LaTeX source code listing like in professional books - Stack Overflow <https://stackoverflow.com/questions/741985/latex-source-code-listing-like-in-professional-books>`_
+- `LaTeX 里「添加程序代码」的完美解决方案 - 知乎 <https://zhuanlan.zhihu.com/p/65441079>`_
+- `LaTeX技巧754:按照算法标题样式定制listings的标题 - LaTeX科技排版工作室 <https://www.latexstudio.net/archives/625.html>`_
+- `listings技巧 - 秋来叶黄 - 博客园 <https://www.cnblogs.com/studywithallofyou/p/11505083.html>`_
+- `LaTeX技巧896：LaTeX 中的浮动体：处理超宽问题 - LaTeX科技排版工作室 <https://www.latexstudio.net/archives/9842>`_
+- `latex中自定义的命令———\newcommand_大草的博客-CSDN博客_latex newcommand <https://blog.csdn.net/sinat_38816924/article/details/84349748>`_
+- `使用biblatex时如何改变指定参考文献的颜色_bibtex怎么标色-CSDN博客 <https://blog.csdn.net/xenonhu/article/details/120097980>`_
+- `Latex - 调整公式大小 - 知乎 <https://zhuanlan.zhihu.com/p/598797769>`_
+- `latex如何取消自动编号_LaTeX入门（5）-CSDN博客 <https://blog.csdn.net/weixin_30533933/article/details/112420777>`_
+- ` <https://chat.openai.com/>`_
+- `【信号与系统】复习总结笔记 - nevel - 博客园 <https://www.cnblogs.com/nevel/p/6194511.html>`_
+- `论文在线阅读—中国知网 <https://kreader.cnki.net/Kreader/CatalogViewPage.aspx?dbCode=cdmd&filename=1015355505.nh&tablename=CMFD201601&compose=&first=1&uid=WEEvREcwSlJHSldSdmVqMDh6a1hCNFFHMkVxSjhnOVNTZEhZZ3ZXV2xRVT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!>`_
+- `Crest Factor - an overview | ScienceDirect Topics <https://www.sciencedirect.com/topics/engineering/crest-factor>`_
+- `信号时域分析方法的理解（峰值因子、脉冲因子、裕度因子、峭度因子、波形因子和偏度等） - 知乎 <https://zhuanlan.zhihu.com/p/35362151>`_
+- `vscode 一键（快捷键）执行脚本命令 <https://wenfh2020.com/2020/10/24/vscode-shortcut-shell/#top>`_
+- `Tasks in Visual Studio Code <https://code.visualstudio.com/docs/editor/tasks#_typescript-hello-world>`_
+- `治愈系钢琴｜周杰伦8小时最好听慢歌合集BGM陪伴学习工作睡眠_哔哩哔哩_bilibili <https://www.bilibili.com/video/BV1Zq4y1x7pd?spm_id_from=333.851.b_7265636f6d6d656e64.1>`_
+- `简单利用PoolingHttpClientConnectionManager来优化HttpClient方法，避免httpclient导致的java.net.SocketException: Network is unreachable (connect failed) - zhuyu++ - 博客园 <https://www.cnblogs.com/zhuyu20/p/14165621.html>`_
+- `Log4j2进阶使用(Pattern Layout详细设置) - 木木与呆呆 - 博客园 <https://www.cnblogs.com/bugzeroman/p/12858115.html>`_
+- `log4j2入门hello world_2578612215的技术博客_51CTO博客 <https://blog.51cto.com/u_13996197/2451717>`_
+- `log4j2.xml 配置文件详解_小阿杰-CSDN博客_log4j2 xml配置详解 <https://blog.csdn.net/hijie/article/details/103112600>`_
+- `Log4j使用技巧——让子类使用父类中定义的Logger_weixin_34049032的博客-CSDN博客 <https://blog.csdn.net/weixin_34049032/article/details/91819116>`_
+- `Java教程 - 廖雪峰的官方网站 <https://www.liaoxuefeng.com/wiki/1252599548343744>`_
+- `django日志配置_老王的博客-CSDN博客_django 日志 <https://blog.csdn.net/weixin_37590093/article/details/81536372>`_
+- `Django RotatingFileHandler产生的错误：PermissionError: [WinError 32] 另一个程序正在使用此文件，进程无法访问。_ztenv的博客-CSDN博客_错误32另一个程序正在使用此文件 <https://blog.csdn.net/lianshaohua/article/details/86569956>`_
+- `日志常用指引 — Python 3.10.2 文档 <https://docs.python.org/zh-cn/3/howto/logging.html>`_
+- `Python 日志打印之logging.config.dictConfig使用总结 - 授客 - 博客园 <https://www.cnblogs.com/shouke/p/14256086.html>`_
+- `Python 中 logging 模块的基本用法 | 静觅 <https://cuiqingcai.com/6080.html>`_
+- `Python之日志处理（logging模块） - 云游道士 - 博客园 <https://www.cnblogs.com/yyds/p/6901864.html>`_
+- `python日志模块的使用 - 我是冰霜 - 博客园 <https://www.cnblogs.com/hanmk/p/10448963.html>`_
+- `python之配置日志的几种方式 - 云游道士 - 博客园 <https://www.cnblogs.com/yyds/p/6885182.html>`_
+- `日志操作手册 — Python 3.9.11 文档 <https://docs.python.org/zh-cn/3.9/howto/logging-cookbook.html>`_
+- `Evvail | 生信工具小套件-bioinfokit | Omics - Hunter <https://evvail.com/2020/08/11/1171.html>`_
+- `NumPy, SciPy, and Pandas: Correlation With Python – Real Python <https://realpython.com/numpy-scipy-pandas-correlation-python/>`_
+- `Plotting a diagonal correlation matrix — seaborn 0.11.2 documentation <http://seaborn.pydata.org/examples/many_pairwise_correlations.html>`_
+- `MySQL中SQL语句的大小写规则 <http://c.biancheng.net/view/7178.html>`_
+- `QWidget — PyQt v5.15 Reference Guide <https://www.riverbankcomputing.com/static/Docs/PyQt5/api/qtwidgets/qwidget.html#windowTitle>`_
+- `Python中子类调用父类的初始化方法_feishicheng的博客-CSDN博客_python 调用父类的初始化方法 <https://blog.csdn.net/feishicheng/article/details/79596000>`_
+- `多种方法实现 python 线程池 - zhang293 - 博客园 <https://www.cnblogs.com/zhang293/p/7954353.html>`_
+- `详细介绍：使用NSIS和VNISEdit制作一个安装包，学来不亏，建议收藏！_Ark_py的博客-CSDN博客_nsis vnisedit <https://blog.csdn.net/weixin_46847476/article/details/105537269>`_
+- `iBooker - 可能是东半球最大的 AI 社区 | 欢迎大家贡献项目 -- ApacheCN 提供支持 <https://www.apachecn.org/#/>`_
+- `https://dsai-notes.apachecn.org <https://dsai-notes.apachecn.org/#/>`_
+- `公开课 <https://www.apachecn.org/#/docs/mooc>`_
+- `pandas 根据列的值选取所有行_Hhhy云帆的博客-CSDN博客 <https://blog.csdn.net/kyriehe/article/details/80422213>`_
+- `https://apachecn.gitee.io/sklearn-doc-zh/#/ <https://apachecn.gitee.io/sklearn-doc-zh/#/>`_
+- `18种和“距离(distance)”、“相似度(similarity)”相关的量的小结_学无止境--有分享有梦想的博客-CSDN博客_相似度 <https://blog.csdn.net/soft_zzti/article/details/87527919>`_
+- `multiple comparisons - Similarity measures between curves? - Cross Validated <https://stats.stackexchange.com/questions/27861/similarity-measures-between-curves>`_
+- `geometry - How can I define a measure of similarity between two line segments in $\mathbb{R}^2$? - Mathematics Stack Exchange <https://math.stackexchange.com/questions/860503/how-can-i-define-a-measure-of-similarity-between-two-line-segments-in-mathbbr>`_
+- `en.wikipedia.org <https://en.wikipedia.org/wiki/Fr%C3%A9chet_distance>`_
+- `弗朗明歇距离（frechet distance） - 知乎 <https://zhuanlan.zhihu.com/p/265457722>`_
+- `dtw.dvi - 10.1.1.118.5078.pdf <chrome-extension://oikmahiipjniocckomdccmplodldodja/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.118.5078%26rep%3Drep1%26type%3Dpdf>`_
+- `从PPG预测BP，离了大谱_老衲要学习的博客-CSDN博客_ppg 数据 <https://blog.csdn.net/weixin_46180132/article/details/123094805?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_ecpm_v1~rank_v31_ecpm-12-123094805-null-null.pc_agg_new_rank&utm_term=ppg%E4%BF%A1%E5%8F%B7%E6%95%B0%E6%8D%AE%E9%9B%86&spm=1000.2123.3001.4430>`_
+- `PhysioNet Databases <https://physionet.org/about/database/>`_
+- `IEEE Xplore Full-Text PDF: <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7168806>`_
+- `血压预测常用数据集整理_MasterQKK 被注册的博客-CSDN博客_血压数据集 <https://blog.csdn.net/QKK612501/article/details/113881818?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_ecpm_v1~rank_v31_ecpm-19-113881818-null-null.pc_agg_new_rank&utm_term=ppg%E4%BF%A1%E5%8F%B7%E6%95%B0%E6%8D%AE%E9%9B%86&spm=1000.2123.3001.4430>`_
+- `PhysioNet <https://physionet.org/>`_
+- `MUSIC-Based Algorithm for On-Demand Heart Rate Estimation Using Photoplethysmographic (PPG) Signals on Wrist | Analog Devices <https://www.analog.com/en/analog-dialogue/articles/music-based-algorithm-for-on-demand-heart-rate-estimation.html>`_
+- `Continuous Blood Pressure Estimation Using Exclusively Photopletysmography by LSTM-Based Signal-to-Signal Translation - PMC <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8122812/>`_
+- `从信号转换角度研究血压（波形）预测的相关论文_MasterQKK 被注册的博客-CSDN博客 <https://blog.csdn.net/QKK612501/article/details/115409205>`_
+- `Separation of mechanism and policy - Wikipedia <https://en.wikipedia.org/wiki/Separation_of_mechanism_and_policy>`_
+- `浙江大学就业服务平台 <http://www.career.zju.edu.cn/jyxt/jyweb/webIndex.zf;jsessionid=37FCF48C7277B8924ADE0CEC1ACB7B6C>`_
+- `图形化 NGINX 配置文件生成器 - 简单适合新手的建站配置工具 - 异次元软件下载 <https://www.iplaysoft.com/p/nginxconfig>`_
+- `comp.dsp | Which is the cut -off frequency of Moving Average LP Filter? <https://www.dsprelated.com/showthread/comp.dsp/155807-1.php>`_
+- `学习笔记：策略与机制分离原则 <https://mp.weixin.qq.com/s/zUMMFNkNLWfGb4aM7IhXPg>`_
+- `曼迪匹艾科技服务有限公司 <https://mdpi.cn/journal>`_
+- `ACS Omega <https://pubs.acs.org/journal/acsodf?cookieSet=1>`_
+- `曲线相似度衡量——曲线距离计算Fréchet distance详解与python计算_呆萌的代Ma的博客-CSDN博客_python两条曲线相似度 <https://blog.csdn.net/weixin_35757704/article/details/122924944>`_
+- `A Concise Explanation of Learning Algorithms with the Mitchell Paradigm - KDnuggets <https://www.kdnuggets.com/2018/10/mitchell-paradigm-concise-explanation-learning-algorithms.html>`_
+- `瑞克和莫蒂 第六季 - 在线播放 - 樱花动漫 <https://yhdmkk.com/watch/20228934>`_
+- `Download Wintail <http://wintail.hofle.com/>`_
+- `mfc:在程序中使用sqlite数据库的具体实现 - tianxiafeiyu - 博客园 <https://www.cnblogs.com/tianxiafeiyu/p/9128662.html>`_
+- `win7下vs2010编译生成sqlite3.lib库 - 行者无疆!! - 博客园 <https://www.cnblogs.com/imoon/archive/2012/11/30/2796726.html>`_
+- `C++第三方日志库log4cplus的安装与使用配置教程_C 语言_脚本之家 <https://www.jb51.net/article/238630.htm>`_
+- `CPlot - MFC plotting library download | SourceForge.net <https://sourceforge.net/projects/cplot/>`_
+- `Chart and Graph Component, Control and Plotting Library for .NET (C#/VB), Java, C++, ASP, COM, PHP, Perl, Python <https://www.advsofteng.com/product.html>`_
+- `浅绿色清新小风格书籍小说封面图片下载 - 觅知网 <https://www.51miz.com/muban/745916.html?keyword_id=176025>`_
+- `唯美手绘旅行插画书籍封面设计图片下载 - 觅知网 <https://www.51miz.com/muban/874826.html?keyword_id=176025>`_
+- `详解16型人格——INFJ（精神世界的引路人） - 知乎 <https://zhuanlan.zhihu.com/p/103737312>`_
+- `微信收藏的语音怎么保存到手机 - 小鱼阁 <https://xiaoyuge.cn/274443.html>`_
+- `表演生的面部表情训练😁😡😔😊 - 知乎 <https://zhuanlan.zhihu.com/p/109242677>`_
+- `Emotional Regulation: Skills, Exercises, and Strategies <https://www.betterup.com/blog/emotional-regulation-skills>`_
+- `Emotional Regulation Skills: Learn How to Control Your Emotions <https://psychcentral.com/health/emotional-regulation>`_
+- `INFJ - MBA智库百科 <https://wiki.mbalib.com/wiki/%E5%80%A1%E5%AF%BC%E8%80%85%E5%9E%8B%E4%BA%BA%E6%A0%BC>`_
+- `Warren D. Smith, Ph.D. | Sacramento State <https://www.csus.edu/faculty/s/smithwd/>`_
+- `在 GitHub 上管理依赖项 - Training | Microsoft Learn <https://learn.microsoft.com/zh-cn/training/modules/configure-dependabot-security-updates-on-github-repo/2-manage-your-dependencies-github>`_
+- `dependabot.yml 文件的配置选项 - GitHub Docs <https://docs.github.com/zh/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file>`_
+- `使用 Github Dependabot 自动更新依赖版本 - 腾讯云开发者社区-腾讯云 <https://cloud.tencent.com/developer/article/1910792>`_
+- `Python: 打包发布到PyPi及踩坑经历_python打包发布pypi_songroom的博客-CSDN博客 <https://blog.csdn.net/wowotuo/article/details/127966884>`_
+- `python打包到pypi小结 <https://www.bbsmax.com/A/gAJGyDAodZ/>`_
+- `Centos安装Docker的详细安装步骤_你的可用余额的博客-CSDN博客 <https://blog.csdn.net/PyongSen/article/details/123053374>`_
+- `LaTeX 工作室 <https://www.latexstudio.net/>`_
+- `mac下镜像飞速安装Homebrew教程 - 知乎 <https://zhuanlan.zhihu.com/p/90508170>`_
+- `macOS - v2rayA <https://v2raya.org/docs/prologue/installation/macos/>`_
+- `Quick start - Qt for Python <https://doc.qt.io/qtforpython-6/quickstart.html>`_
+- `pyecharts - A Python Echarts Plotting Library built with love. <https://pyecharts.org/#/?id=pyecharts>`_
