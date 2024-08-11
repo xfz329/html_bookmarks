@@ -1,0 +1,10 @@
+# R 语言
+- [R 语言教程 | 菜鸟教程](https://www.runoob.com/r/r-tutorial.html)
+- [R · R 包开发 | 保姆级教程_r包开发_一只小蛮要的博客-CSDN博客](https://blog.csdn.net/weixin_43843918/article/details/129395318)
+- [在VScode设置R语言 - 灰信网（软件开发博客聚合）](https://www.freesion.com/article/1168866809/)
+- [R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
+- [R语言 用data.table进行数据操作|极客教程](https://geek-docs.com/r-language/r-tutorials/t_data-manipulation-in-r-with-data-table.html)
+- [The Comprehensive R Archive Network](https://cran.r-project.org/submit.html)
+- [R语言程序包开发 - 简书](https://www.jianshu.com/p/8e0db63fcbff)
+- [R Packages (2e)](https://r-pkgs.org/) 
+- [The R Graph Gallery – Help and inspiration for R charts](https://r-graph-gallery.com/)

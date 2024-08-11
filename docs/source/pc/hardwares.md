@@ -1,0 +1,13 @@
+# 硬件相关
+- [Mcuzone下载站 首页](http://www.mcuzone.com/down/Index.asp)
+- [首页-广州立功科技股份有限公司](https://www.zlgmcu.com/)
+- [贸泽电子 - 电子元器件分销商](http://www.mouser.cn/)
+- [e络盟 | 电子元器件分销商 | Premier Farnell 集团在中国的子公司 | 前身派睿电子](http://cn.element14.com/?CMP=KNC-BAI-GEN-PFB&mckv=1yv5TL28N|pcrid|6045932560&baidu%20-%20mckv=1yv5TL28N|pcrid|6045932560)
+- [恩智浦半导体 | 汽车电子, 安全互联, 物联网](https://www.nxp.com.cn/)
+- [C8051F 51单片机 选型列表](https://www.waveshare.net/Left_Column/C8051F_51_Device.htm)
+- [ADS1298 数据表, 产品信息与支持 | TI.com.cn](https://www.ti.com.cn/product/cn/ADS1298)
+- [意法半导体STM32/STM8技术社区 - 提供最新的ST资讯和技术交流](https://www.stmcu.org.cn/)
+- [ALLDATASHEET.COM - Datasheet search site for Electronic Components and Semiconductors and other semiconductors.](https://www.alldatasheet.com/)
+- [模拟 | 嵌入式处理 | 半导体公司 | 德州仪器 TI.com.cn](https://www.ti.com.cn/)
+- [ON Semiconductor](https://www.onsemi.cn/)
+- [OpenEdv-开源电子网-正点原子论坛](http://openedv.com/forum.php)

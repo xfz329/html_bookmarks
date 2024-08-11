@@ -1,0 +1,10 @@
+# 搜索引擎
+- [百度云搜索_网盘搜索_百度云资源-热盘搜](http://www.repanso.com/)
+- [开发者搜索-Beta](https://kaifa.baidu.com/)
+- [数据库导航 - 浙江大学图书馆](http://210.32.137.90/s/lib/libtb/)
+- [Home - 求是学术搜索](http://zju.summon.serialssolutions.com/#!/)
+- [Sci-Hub: removing barriers in the way of science](https://www.sci-hub.ren/)
+- [灰机wiki](https://www.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)
+- [萌娘百科 万物皆可萌的百科全书 - zh.moegirl.org.cn](https://zh.moegirl.org.cn/Mainpage)
+- [全历史](https://www.allhistory.com/)
+- [资源帝电子书导航_在这里发现更多好书...](http://shu.ziyuandi.cn/)

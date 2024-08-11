@@ -1,0 +1,17 @@
+# Linux
+
+- [zju mirror](http://mirrors.zju.edu.cn/)
+- [阿里巴巴开源镜像站](https://opsx.alibaba.com/mirror)
+- [Index of /Linux.old/](http://oldlinux.org/Linux.old/)
+- [Unix](https://minnie.tuhs.org/cgi-bin/utree.pl)
+- [LFS Project Homepage](https://www.linuxfromscratch.org/lfs/)
+- [The NetBSD Project](http://www.netbsd.org/)
+- [JSLinux](https://bellard.org/jslinux/)
+- [ubuntu中文论坛](http://forum.ubuntu.org.cn/index.php)
+- [Unix技术网 = 全球最大的Linux/Unix应用与开发者社区 = IT人的网上家园](http://www.chinaunix.net/)
+- [Linux网站导航,Linux网址大全,Linux排名,Linux屏幕抓图](https://linux.ubuntu.org.cn/)
+- [正点原子](http://www.openedv.com/forum.php)
+- [6.S081 / Fall 2020](https://pdos.csail.mit.edu/6.828/2020/index.html)
+- [https://ipads.se.sjtu.edu.cn/mospi/](https://ipads.se.sjtu.edu.cn/mospi/)
+- [正点原子【第一期】手把手教你学Linux之Ubuntu入门篇_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1vE411h7Fi?p=2)
+- [正点原子【第二期】手把手教你学Linux之ARM（MX6U）裸机篇_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1yE411h7uQ?p=5)
