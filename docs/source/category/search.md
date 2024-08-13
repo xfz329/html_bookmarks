@@ -11,3 +11,5 @@
 - [中国哲学书电子化计划](https://ctext.org/wiki.pl?if=gb&remap=gb)
 - [Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。](https://zh.z-library.se/?continueFlag=263228ab5eaa97f6d66228e2263f5ed5)
 - [书格](https://www.shuge.org/)
+- [天赋好书（cnToFu.com）-- 分享开源电子书](https://www.cntofu.com/)
+- [今日诗词 - 一言API - 诗词实时智能推荐 - 今日诗词开放接口 - 今日诗词 API - 个人文章分享](https://www.jinrishici.com/)

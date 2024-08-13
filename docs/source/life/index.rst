@@ -7,3 +7,4 @@
 
     shop
     guitar
+    entertain

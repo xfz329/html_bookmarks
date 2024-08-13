@@ -5,6 +5,8 @@
     :maxdepth: 2
     :caption: 目录:
 
+    tools
+    tutorial
     git
     nb
     latex

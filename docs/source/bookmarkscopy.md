@@ -1,53 +1,27 @@
 ## 未分组
 
-- [YouTube](https://youtube.com/)
 
-- [腾讯云](https://console.cloud.tencent.com/developer)
-- [阿里云](https://account.aliyun.com/login/login.htm?oauth_callback=https%3A%2F%2Fecs.console.aliyun.com%2F%3Fspm%3D5176.authc-home.recommend.decs.d16b4babbcY6Q8#/home)
-- [菜鸟工具 - 不止于工具](https://c.runoob.com/)
-- [RGB转16进制工具 | 菜鸟工具](https://c.runoob.com/front-end/55/)
-- [w3school 在线教程](http://www.w3school.com.cn/)
-- [中国大学MOOC(慕课)_国家精品课程在线学习平台](https://www.icourse163.org/)
-- [菜鸟教程 - 学的不仅是技术，更是梦想！](https://www.runoob.com/)
-- [笨鸟教程](http://www.javatiku.cn/)
-- [首页 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/)
-- [CJavaPy_www.cjavapy.com](https://www.cjavapy.com/)
+
+
 - [PyPI · The Python Package Index](https://pypi.org/)
-- [JSON在线视图查看器(Online JSON Viewer)](https://www.bejson.com/jsonviewernew/)
-- [regex101: build, test, and debug regex](https://regex101.com/)
-- [乱码恢复](http://www.mytju.com/classcode/tools/messycoderecover.asp)
-- [天赋好书（cnToFu.com）-- 分享开源电子书](https://www.cntofu.com/)
+
+
 - [爪哇堂 – 荣辱不惊闲看庭前花开花谢，去留无意漫随天外云卷云舒。——马寅初](https://www.javatang.com/)
-- [易百教程™ - 专注于IT教程和实例](https://www.yiibai.com/)
-- [Regex Learn - 逐步从零基础到高阶。](https://regexlearn.com/zh-cn)
-- [WantWords 反向词典](https://wantwords.net/)
-- [不愧是微软出品的工具，逆天！](https://mp.weixin.qq.com/s?__biz=MzU0OTkwNTM2Mw==&mid=2247628610&idx=2&sn=b512c95ca6f98bd7ecd3e4c62dd91490&chksm=fba401feccd388e84d9d29c5b63ca9218c81cde6b9c8b8189f57c0de4aeccdc5618f355fd6e4&scene=132#wechat_redirect)
-- [朱鸾AI助手](http://wenzhang.zhuluan.com/zh-cn/)
-- [在线JSON校验格式化工具（Be JSON）](https://www.bejson.com/)
-- [今日诗词 - 一言API - 诗词实时智能推荐 - 今日诗词开放接口 - 今日诗词 API - 个人文章分享](https://www.jinrishici.com/)
+
+
+
 - [金锋关晓柔大康王朝小说免费阅读,第760章 要当爸爸了？作者寒门枭士-33小说网](https://m.x33xs.com/33xs/407/407421/11273692.html#circle=on)
-- [CPU比较/处理器比较](https://www.cpu-panda.com/zh-cn/)
-- [PassMark Software - CPU Benchmark Charts](https://www.cpubenchmark.net/)
-- [Office Tool Plus 官方网站 - 一键部署 Office](https://otp.landian.vip/zh-cn/)
 - [A+医学百科, 在线医学百科全书](http://www.a-hospital.com/w/%E9%A6%96%E9%A1%B5)
-- [火山写作](https://www.writingo.net/document)
-- [DeepL Write：人工智能驱动的写作助手](https://www.deepl.com/write)
-
-- [Draw all roads in a city at once](https://anvaka.github.io/city-roads/?q=%E9%87%8D%E5%BA%86)
-
-
 - [JavaFX爱好者看过来，这款工具值得拥有_javafx ui库_夜郎king的博客-CSDN博客](https://blog.csdn.net/yelangkingwuzuhu/article/details/128410692)
 - [Java Downloads | Oracle](https://www.oracle.com/java/technologies/downloads/)
 
 - [Health icons](https://healthicons.org/)
 - [Utility of the Photoplethysmogram in Circulatory Monitoring | Anesthesiology | American Society of Anesthesiologists](https://pubs.asahq.org/anesthesiology/article/108/5/950/8368/Utility-of-the-Photoplethysmogram-in-Circulatory)
 - [Microsoft Word - Kezerashvili-MS - CCR-8-14.pdf](chrome-extension://oikmahiipjniocckomdccmplodldodja/pdf-viewer/web/viewer.html?file=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3394104%2Fpdf%2FCCR-8-14.pdf)
-- [大写在线转换小写](https://jf.homefont.cn/daxiao.html)
+
 - [Chat8永久地址 地址发布页](https://x.chat838.com/)
 - [chat8](https://suchat.chatbh.com/#/home)
 - [Z CHAT](https://zchat.tech/)
-
-
 
 - [摸鱼4K | 导航](https://moyu.xiyan.life/)
 - [大模型&AIGC - 飞书云文档](https://uaorfnky3oj.feishu.cn/docx/XNIJdNdEqoJHQ1x6umccURy3nTd)
