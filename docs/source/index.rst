@@ -12,6 +12,8 @@ Let's surf!
 
    category/index
    it/index
+   bme/index
+   math/index
    software/index
    pc/index
    zju/index

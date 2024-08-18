@@ -26,3 +26,5 @@
 - [Full article: Distinguishing preeclampsia using the falling scaled slope (FSS) --- a novel photoplethysmographic morphological parameter](https://www.tandfonline.com/doi/full/10.1080/10641955.2023.2225617)
 - [Volume 139 Issue 6 | Anesthesiology | American Society of Anesthesiologists](https://pubs.asahq.org/anesthesiology/issue)
 - [International Journal of Gynecology & Obstetrics Journal Metrics](https://obgyn.onlinelibrary.wiley.com/page/journal/18793479/journal-metrics)
+- [曼迪匹艾科技服务有限公司](https://mdpi.cn/journal)
+- [ACS Omega](https://pubs.acs.org/journal/acsodf?cookieSet=1)

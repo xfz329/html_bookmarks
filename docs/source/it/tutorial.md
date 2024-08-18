@@ -5,3 +5,4 @@
 - [笨鸟教程](http://www.javatiku.cn/)
 - [首页 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 - [CJavaPy_www.cjavapy.com](https://www.cjavapy.com/)
+- [易百教程™ - 专注于IT教程和实例](https://www.yiibai.com/)

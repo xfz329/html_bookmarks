@@ -21,4 +21,6 @@
     db
     rst
     site
+    libs
+    ui
 
