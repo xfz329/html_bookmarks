@@ -18,7 +18,7 @@
 - [荣耀路由2](http://192.168.3.1/html/advance.html#internet)
 - [Introducing ChatGPT](https://openai.com/blog/chatgpt)
 
-- [](http://weibo.com/u/1343642930/home?topnav=1&wvr=6)
+- [微博](http://weibo.com/u/1343642930/home?topnav=1&wvr=6)
 - [xfz329 - 博客园](http://www.cnblogs.com/xfz329/)
 - [Reference - C++ Reference](http://www.cplusplus.com/reference/)
 - [Python 标准库 — Python 3.11.2 文档](https://docs.python.org/zh-cn/3/library/index.html)
@@ -40,7 +40,7 @@
 
 - [医疗互助保障项目&疾病训练指北](https://spkz.notion.site/090552c425e14d60a1f13a3c04345ee5?v=41969826493e41a9afe1e4f11ba30c77#73c84a50cf0a4e90addbba57a2c228dd)
 
-- [](https://chat.openai.com/)
+- [ChatGPT](https://chat.openai.com/)
 
 
 - [iBooker - 可能是东半球最大的 AI 社区 | 欢迎大家贡献项目 -- ApacheCN 提供支持](https://www.apachecn.org/#/)
